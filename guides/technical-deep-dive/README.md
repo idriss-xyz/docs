@@ -8,7 +8,7 @@ IDriss registry lives on [Polygon](https://polygonscan.com/address/0x2eccb53ca2d
 
 First, we generate a hash called _IDrissHash._ It is a hash of the identifier, an optional (and encouraged) password (secretWord) , and an additional hash identifying the chosen wallet tag. The identifier is either an email, phone number, or Twitter user ID (which does not change when changing your Twitter username).&#x20;
 
-&#x20;$$\begin{align} &IDrissHash = sha256(identifer+password_{optional}+walletTag_{hash})  \\ \\ &IDrissHash_{verify}= sha256(IDrissHash+verifier_{key}) \\ \\ &IDrissHash \rightarrow IDrissHash_{verify}\end{align}$$​
+&#x20;$$\begin{align} &IDrissHash = sha256(identifier+password_{optional}+walletTag_{hash})  \\ \\ &IDrissHash_{verify}= sha256(IDrissHash+verifier_{key}) \\ \\ &IDrissHash \rightarrow IDrissHash_{verify}\end{align}$$​
 
 To normalize the input variables, we provide a number of methods to follow before generating the hashes:
 
