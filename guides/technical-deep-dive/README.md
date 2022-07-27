@@ -6,9 +6,9 @@ description: How does IDriss work?
 
 IDriss registry lives on [Polygon](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814). Our contract is verified, and anyone can view the source code [here](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814#code). At its core, IDriss is made up of three mappings.
 
-First, we generate a hash called _IDrissHash._ It is a hash of the identifyer, an optional (and encouraged) password (secretWord) , and an additional hash identifying the chosen wallet tag. The identifyer is either an email, phone number, or Twitter user ID (which does not change when changing your Twitter username).&#x20;
+First, we generate a hash called _IDrissHash._ It is a hash of the identifier, an optional (and encouraged) password (secretWord) , and an additional hash identifying the chosen wallet tag. The identifier is either an email, phone number, or Twitter user ID (which does not change when changing your Twitter username).&#x20;
 
-&#x20;$$\begin{align} &IDrissHash = sha256(identifyer+password_{optional}+walletTag_{hash})  \\ \\ &IDrissHash_{verify}= sha256(IDrissHash+verifyer_{key}) \\ \\ &IDrissHash \rightarrow IDrissHash_{verify}\end{align}$$​
+&#x20;$$\begin{align} &IDrissHash = sha256(identifer+password_{optional}+walletTag_{hash})  \\ \\ &IDrissHash_{verify}= sha256(IDrissHash+verifier_{key}) \\ \\ &IDrissHash \rightarrow IDrissHash_{verify}\end{align}$$​
 
 To normalize the input variables, we provide a number of methods to follow before generating the hashes:
 
@@ -41,7 +41,7 @@ def hashHex(s):
     return hashlib.sha256(s.encode()).hexdigest()
 ```
 
-In an example, let's consider the IDriss identifyer to be "hello@idriss.xyz", the wallet tag hash "ETH\_MM" for MetaMask Eth, and "gm" as the verifyer key. No password is chosen. The resulting mapping looks as follows:
+In an example, let's consider the IDriss identifier to be "hello@idriss.xyz", the wallet tag hash "ETH\_MM" for MetaMask Eth, and "gm" as the verifier key. No password is chosen. The resulting mapping looks as follows:
 
 $$
 4133dbf2e0b2af2b9b006e71dc23fa804df49ce85409b77bebef1395d5953153 \\ \downarrow \\ 3c7b23062dd8a4e09f35da8fe4f1418f614b63942c0aff1d86a3b370807fe29d
