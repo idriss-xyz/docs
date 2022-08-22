@@ -23,7 +23,7 @@ Additionally, we launched [Online Creator Tipping](https://mirror.xyz/0x88d7709c
 After verifying your identifier, you are asked to choose a wallet tag. The wallet tag reminds you of what type of wallet address you have tied your email, phone number, or Twitter handle to. It will be displayed in the search result to help you identify the wallet. In the picture above, you can see the wallet tags **Metamask ETH**, **Coinbase ETH**, and **Rainbow ETH.** In total, we offer around 40 different tags!  If you are missing one, please let us know in [Discord](https://discord.gg/RJhJKamjw5).
 
 {% hint style="success" %}
-You can link multiple wallet addresses to multiple identifiers. If you don't want your address to be publicly available, add a password to it. Only people knowing your password will find your wallet address.
+You can link multiple wallet addresses to multiple identifiers. If you don't want your address to be publicly available, add a secret word to it. Only people knowing your secret word will find your wallet address.
 {% endhint %}
 
 #### Blockchain Agnostic

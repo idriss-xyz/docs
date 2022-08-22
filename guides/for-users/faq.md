@@ -6,9 +6,9 @@ description: Do you have any questions? Check out these frequent questions below
 
 {% tabs %}
 {% tab title="Setup" %}
-**Do I need to add a password ?**
+**Do I need to add a secret word ?**
 
-It is optional. If you do not add a password, anyone knowing your email or phone number can look up your wallet address tied to it. If you do add a password, only those to whom you give your password can look up your wallet address.
+It is optional. If you do not add a secret word, anyone knowing your email or phone number can look up your wallet address tied to it. If you do add a secret word, only those to whom you give your secret word can look up your wallet address.
 
 **What is a wallet tag ?**
 
