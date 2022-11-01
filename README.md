@@ -12,7 +12,7 @@ IDriss is on a mission to help provide that by building a suite of tools making 
 
 Unitil today, central parts of the user experience associated with using cryptocurrency are not suited to accommodate the wave of non-crypto-native people that will be flowing into web3 in the coming decade. For example, the crypto wallet address format (long string of numbers and letters) is impossible to use by anyone outside of the core crypto users. It's cumbersome, time-consuming, and unsafe to use.
 
-The first product in the suite of IDriss tools is a decentralized mapping of emails, phone numbers, and Twitter usernames to crypto wallet addresses. It deals with the wallet address format problem mentioned in the previous paragraph. It is live and holds more than 4500 individual entires!
+The first product in the suite of IDriss tools is a decentralized mapping of emails, phone numbers, and Twitter usernames to crypto wallet addresses. It deals with the wallet address format problem mentioned in the previous paragraph. It is live and holds around 8500 individual entries!
 
 But IDriss expands beyond the address book. We released the first tool from our crypto payments vertical: a shortcut for online creators to get paid in crypto on Twitter, and soon on other platforms.&#x20;
 
