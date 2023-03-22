@@ -1,24 +1,7 @@
----
-description: >-
-  IDriss wants to give a wallet address to every human on earth. This is a guide
-  to how it is done.
----
-
 # Introduction
 
-Every human on Earth deserves frictionless access to crypto and the benefits coming from using it: cheap and instant transactions, improved security & privacy, and investment opportunities.
-
-IDriss is on a mission to help provide that by building a suite of tools making web3 more accessible for regular humans.
-
-Unitil today, central parts of the user experience associated with using cryptocurrency are not suited to accommodate the wave of non-crypto-native people that will be flowing into web3 in the coming decade. For example, the crypto wallet address format (long string of numbers and letters) is impossible to use by anyone outside of the core crypto users. It's cumbersome, time-consuming, and unsafe to use.
-
-The first product in the suite of IDriss tools is a decentralized mapping of emails, phone numbers, and Twitter usernames to crypto wallet addresses. It deals with the wallet address format problem mentioned in the previous paragraph. It is live and holds around 8500 individual entries!
-
-But IDriss expands beyond the address book. We released the first tool from our crypto payments vertical: a shortcut for online creators to get paid in crypto on Twitter, and soon on other platforms.&#x20;
-
-Users can seamlessly send native tokens and stablecoins over Polygon, Ethereum, and BSC networks. Adding support for more tokens and networks is planned for the near future. 1% of each transaction supplies IDriss treasury.
-
-The future is optimistic. We are working on enabling this solution for online creators on additional platforms: Twitch, YouTube, and others. Stay tuned.
+This documentation is written for both users and developers. In the [user section](guides/for-users/), you will find any information needed regarding how and where you can use IDriss, the different products that are live, and how you can reach the IDriss community! In the [developers tab](guides/for-developers/), you will find help on how to integrate any of the IDriss products. \
+For anyone interested in how IDriss works, check out the [technical-deep-dive](guides/technical-deep-dive/ "mention")!
 
 ## Getting Started
 
@@ -68,24 +51,4 @@ Follow our guides to get the information you need:
 
 {% content-ref url="guides/technical-deep-dive/" %}
 [technical-deep-dive](guides/technical-deep-dive/)
-{% endcontent-ref %}
-
-### Announcements
-
-Read up on the newest developments.
-
-{% content-ref url="announcements/mission-statement.md" %}
-[mission-statement.md](announcements/mission-statement.md)
-{% endcontent-ref %}
-
-{% content-ref url="announcements/crypto-tipping.md" %}
-[crypto-tipping.md](announcements/crypto-tipping.md)
-{% endcontent-ref %}
-
-{% content-ref url="announcements/product-update-1.md" %}
-[product-update-1.md](announcements/product-update-1.md)
-{% endcontent-ref %}
-
-{% content-ref url="announcements/product-update-2.md" %}
-[product-update-2.md](announcements/product-update-2.md)
 {% endcontent-ref %}

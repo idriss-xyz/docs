@@ -21,9 +21,9 @@
     * [IDriss Reverse Mapping](guides/technical-deep-dive/smart-contracts/idriss-reverse-mapping.md)
     * [IDriss Tipping](guides/technical-deep-dive/smart-contracts/idriss-tipping.md)
 
-## Announcements
+## Other
 
-* [Mission Statement](announcements/mission-statement.md)
-* [Crypto Tipping](announcements/crypto-tipping.md)
-* [Product Update #1](announcements/product-update-1.md)
-* [Product Update #2](announcements/product-update-2.md)
+* [Mirror](https://idriss.mirror.xyz/)
+* [Twitter](https://twitter.com/IDriss\_xyz)
+* [Bounties](https://app.dework.xyz/idriss/development-121)
+* [Development](https://github.com/idriss-crypto?type=source)
