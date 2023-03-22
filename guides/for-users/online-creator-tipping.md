@@ -11,3 +11,9 @@ Using the IDriss [browser extension](browser-extension.md), you can see the IDri
 ![](../../.gitbook/assets/doodle.gif)
 
 In the future, this functionality will be available across several platforms! Stay tuned.
+
+
+
+{% hint style="info" %}
+**Good to know:** To tip your favorite creator with IDriss, you don't need to be registered in the address book. All you need is our browser extension and some tokens to give away.
+{% endhint %}
