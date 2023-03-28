@@ -4,7 +4,7 @@ Everyone can access the decentralized address book and tipping functionalities t
 
 
 
-<img src="../../.gitbook/assets/extension.png" alt="" data-size="original">
+<div align="center"><img src="../../.gitbook/assets/extension.png" alt="" data-size="original"></div>
 
 {% hint style="info" %}
 The IDriss plugin sits on top of your browser and resolves emails, phone numbers, and Twitter handles for you. You don't ever have to copy and paste someone's wallet address once it is linked with IDriss.
