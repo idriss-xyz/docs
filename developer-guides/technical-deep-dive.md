@@ -1,7 +1,3 @@
----
-description: How does IDriss work?
----
-
 # Technical Deep Dive
 
 IDriss registry lives on [Polygon](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814). Our contract is verified, and anyone can view the source code [here](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814#code). At its core, IDriss is made up of three mappings.

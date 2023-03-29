@@ -14,15 +14,9 @@
 
 ## Developer Guides
 
-* [Build on IDriss](developer-guides/build-on-idriss/README.md)
-  * [Resolving](developer-guides/build-on-idriss/resolver.md)
-  * [Reverse Resolving](developer-guides/build-on-idriss/reverse-resolving.md)
-  * [Registering New Records](developer-guides/build-on-idriss/in-app-sign-up.md)
-* [Technical Deep Dive](developer-guides/technical-deep-dive/README.md)
-  * [Smart Contracts](developer-guides/technical-deep-dive/smart-contracts/README.md)
-    * [IDriss Registry](developer-guides/technical-deep-dive/smart-contracts/idriss-registry.md)
-    * [IDriss Reverse Mapping](developer-guides/technical-deep-dive/smart-contracts/idriss-reverse-mapping.md)
-    * [IDriss Tipping](developer-guides/technical-deep-dive/smart-contracts/idriss-tipping.md)
+* [Build on IDriss](developer-guides/build-on-idriss.md)
+* [Technical Deep Dive](developer-guides/technical-deep-dive.md)
+* [Smart Contracts](developer-guides/smart-contracts.md)
 
 ## Contributor Guides
 
