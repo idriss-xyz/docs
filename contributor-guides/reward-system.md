@@ -21,7 +21,7 @@ The goal is to accelerate the growth of the IDriss ecosystem by attracting more 
 
 ### Reward Rates
 
-Reward points are calculated are based on multiple factors. See [Rates](rewards-system.md#rates) for details. Currently, reward points can be collected through four different activities: (re-) tweeting, Discord invites, IDriss ownerships, and IDriss referrals.
+Reward points are calculated are based on multiple factors. See [Rates](reward-system.md#rates) for details. Currently, reward points can be collected through four different activities: (re-) tweeting, Discord invites, IDriss ownerships, and IDriss referrals.
 
 Head over to your [Dashboard](https://www.idriss.xyz/dashboard) to manage your IDriss, view your reward points, and add tweets to your reward list.
 

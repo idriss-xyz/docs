@@ -20,7 +20,7 @@
 
 ## Contributor Guides
 
-* [Reward System](contributor-guides/rewards-system.md)
+* [Reward System](contributor-guides/reward-system.md)
 
 ## Links
 
