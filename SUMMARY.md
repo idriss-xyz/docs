@@ -22,11 +22,8 @@
       * [IDriss Registry](guides/for-developers/technical-deep-dive/smart-contracts/idriss-registry.md)
       * [IDriss Reverse Mapping](guides/for-developers/technical-deep-dive/smart-contracts/idriss-reverse-mapping.md)
       * [IDriss Tipping](guides/for-developers/technical-deep-dive/smart-contracts/idriss-tipping.md)
-
-***
-
-* [For Contributors](for-contributors/README.md)
-  * [Reward System](for-contributors/rewards-system.md)
+* [For Contributors](guides/for-contributors/README.md)
+  * [Reward System](guides/for-contributors/rewards-system.md)
 
 ## Links
 
