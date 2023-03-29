@@ -2,9 +2,11 @@
 
 This documentation has been designed to provide all the necessary information you need to know, whether you are a user or a developer.
 
-The [user section](guides/for-users/) covers everything about using IDriss, including its applications, product demos, and how to be an active community member.
+The [Broken link](broken-reference "mention")section covers everything about using IDriss, including its applications and product demos.
 
-Our [developer section](guides/for-developers/) provides detailed guidance on integrating IDriss into dApps and also offers additional information for those who want to dive deep into the technical aspects of IDriss.
+Our [Broken link](broken-reference "mention")section provides detailed guidance on integrating IDriss into dApps and also offers additional information for those who want to dive deep into the technical aspects of IDriss.
+
+The [Broken link](broken-reference "mention")section gives info on how to be an active community member.
 
 ## Getting Started
 
@@ -30,10 +32,10 @@ What is IDriss Send?
 
 Follow our guides to get comprehensive information.
 
-{% content-ref url="guides/for-users/" %}
-[for-users](guides/for-users/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="guides/for-developers/" %}
-[for-developers](guides/for-developers/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

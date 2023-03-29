@@ -40,7 +40,7 @@ Tipping is available on Polygon, Ethereum and BSC.
 
 **Can I change my email, phone number, or Twitter name?**
 
-While no one can change a past transaction on a blockchain, you will be able to delete your link from the [IDriss registry](../for-developers/build-on-idriss/resolver.md). Head over to your [Management Dashboard](https://www.idriss.xyz/dashboard) for any changes you would like to perform.&#x20;
+While no one can change a past transaction on a blockchain, you will be able to delete your link from the [IDriss registry](broken-reference). Head over to your [Management Dashboard](https://www.idriss.xyz/dashboard) for any changes you would like to perform.&#x20;
 
 #### I want to change my Twitter username. Do I lose my IDriss?
 

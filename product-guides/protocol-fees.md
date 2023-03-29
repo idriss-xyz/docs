@@ -6,7 +6,7 @@ This article provides an overview of fees charged by the IDriss protocol. All th
 
 The fees charged by the [IDriss Send](https://www.idriss.xyz/send) protocol differ depending on whether the recipient is a registered IDriss name and whether you send an individual or a batch transfer through MultiSend.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Additional clarifications:**
 

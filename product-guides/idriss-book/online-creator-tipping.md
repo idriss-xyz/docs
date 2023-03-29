@@ -6,9 +6,9 @@ Users can seamlessly send native tokens and stablecoins over Polygon, Ethereum, 
 
 The future is optimistic. We are working on enabling this solution for online creators on additional platforms: Twitch, YouTube, and others.
 
-Using the IDriss [browser extension](browser-extension.md), you can see the IDriss icon <img src="../../../.gitbook/assets/icon128.png" alt="" data-size="line"> next to registered usernames on Twitter. You can then hover over the symbol to select your preferred amount, network, and token or coin. View the complete demo below.
+Using the IDriss [browser extension](broken-reference), you can see the IDriss icon <img src="../../.gitbook/assets/icon128.png" alt="" data-size="line"> next to registered usernames on Twitter. You can then hover over the symbol to select your preferred amount, network, and token or coin. View the complete demo below.
 
-![](../../../.gitbook/assets/doodle.gif)
+![](../../.gitbook/assets/doodle.gif)
 
 In the future, this functionality will be available across several platforms! Stay tuned.
 
