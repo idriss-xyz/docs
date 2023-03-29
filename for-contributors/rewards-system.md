@@ -1,10 +1,10 @@
 ---
-description: Learn how you can contribute!
+description: Earn reward points by inviting friends and creating content
 ---
 
-# Rewards System
+# Reward System
 
-The IDriss community is at the heart of this project. IDriss grows with them. We developed a reward system, which lets the community earn reward points. These can be swapped for ⊜ IDriss after the official release of the token.
+IDriss is a community-owned and operated project. We developed a reward system, which lets the community earn reward points. These can be swapped for ⊜ IDriss after the official release of the token.
 
 The goal is to accelerate the growth of the IDriss ecosystem by attracting more users and providing a better connectivity of web2 identities with web3 services.
 

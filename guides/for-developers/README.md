@@ -1,24 +1,19 @@
 ---
-description: Let's work together!
+description: The section covers everything about building on IDriss
 ---
 
 # For Developers
 
-Wallet addresses are a central part of the user experience associated with sending and receiving cryptocurrency. The established address format (long string of numbers and letters) needs to be replaced with a more human-centric solution to improve the experience of the current crypto users and accommodate the wave of non-crypto-native people that will be flowing into web3 in the coming decade.
+Here are the key benefits of integrating IDriss into your project:
 
-IDriss aims at solving the above-mentioned challenge by letting users link their emails, phone numbers and Twitter usernames to crypto wallet addresses in a decentralized registry.
-
-The key benefits of integrating IDriss are:
-
-* User-friendly wallet address format that can be easily shared verbally, or in writing for the purpose of sending or receiving crypto
-* Effective organization and quicker access to your multiple wallet addresses (you have them available under one, memorable IDriss)
-* Easier transactions to and from integrated wallets
-* Quicker search for other users inside your application
-* Additional revenue stream though our shared revenue model
+* Improving UX by letting use familiar web2 identifiers in search bars and input fields
+* Augmenting UI by replacing wallet addresses with human-readable names
+* Linking Twitter usernames, emails, and phone numbers to user profiles in a decentralized manner
+* Scaling your app beyond crypto-native userbase
 
 #### **IDriss name support**
 
-Users are able to input IDriss names (emails, phone numbers, and Twitter usernames) in the recipient field within the recipient field and see wallet addresses that have been linked to them. Working examples from within the [Elastos Essentials mobile wallet](https://elastos.info/essentials-the-super-wallet/) and [Tally Ho! Wallet](https://gov.tally.cash/t/tip-2-integration-of-idriss-into-tally-ho-wallet-draft/596) are displayed below.
+Users are able to input IDriss names (emails, phone numbers, and Twitter usernames) in the recipient field and see wallet addresses that have been linked to them. Working examples from within the [Elastos Essentials mobile wallet](https://elastos.info/essentials-the-super-wallet/) and [Tally Ho! Wallet](https://gov.tally.cash/t/tip-2-integration-of-idriss-into-tally-ho-wallet-draft/596) are displayed below.
 
 ![Elastos Essentials](../../.gitbook/assets/elastos.png) ![Tally Ho! Wallet](<../../.gitbook/assets/tally (1).png>)
 

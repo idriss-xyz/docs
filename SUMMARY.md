@@ -5,21 +5,28 @@
 ## Guides
 
 * [For Users](guides/for-users/README.md)
-  * [Browser Extension](guides/for-users/browser-extension.md)
-  * [Online Creator Tipping](guides/for-users/online-creator-tipping.md)
-  * [Supported Websites and Integrations](guides/for-users/supported-websites-and-integrations.md)
-  * [Rewards System](guides/for-users/rewards-system.md)
+  * [IDriss Book](guides/for-users/idriss-book/README.md)
+    * [Browser Extension](guides/for-users/idriss-book/browser-extension.md)
+    * [Payments on Twitter](guides/for-users/idriss-book/online-creator-tipping.md)
+    * [Integrations](guides/for-users/idriss-book/supported-websites-and-integrations.md)
+  * [IDriss Send](guides/for-users/idriss-send.md)
+  * [Protocol Fees](guides/for-users/protocol-fees.md)
   * [FAQ](guides/for-users/faq.md)
-  * [Resources](guides/for-users/resources.md)
 * [For Developers](guides/for-developers/README.md)
-  * [Resolver](guides/for-developers/resolver.md)
-  * [In-App Sign-Up](guides/for-developers/in-app-sign-up.md)
-  * [Reverse Resolving](guides/for-developers/reverse-resolving.md)
+  * [Build on IDriss](guides/for-developers/build-on-idriss/README.md)
+    * [Resolving](guides/for-developers/build-on-idriss/resolver.md)
+    * [Reverse Resolving](guides/for-developers/build-on-idriss/reverse-resolving.md)
+    * [Registering New Records](guides/for-developers/build-on-idriss/in-app-sign-up.md)
   * [Technical Deep Dive](guides/for-developers/technical-deep-dive/README.md)
     * [Smart Contracts](guides/for-developers/technical-deep-dive/smart-contracts/README.md)
       * [IDriss Registry](guides/for-developers/technical-deep-dive/smart-contracts/idriss-registry.md)
       * [IDriss Reverse Mapping](guides/for-developers/technical-deep-dive/smart-contracts/idriss-reverse-mapping.md)
       * [IDriss Tipping](guides/for-developers/technical-deep-dive/smart-contracts/idriss-tipping.md)
+
+***
+
+* [For Contributors](for-contributors/README.md)
+  * [Reward System](for-contributors/rewards-system.md)
 
 ## Links
 
