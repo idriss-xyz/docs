@@ -1,6 +1,6 @@
 # Introduction
 
-This documentation has been designed to provide all the necessary information you need to know, whether you are a user or a developer.
+This documentation has been designed to provide all the necessary information you need to know, whether you are a user, developer, or a contributor.
 
 The [Broken link](broken-reference "mention")section covers everything about using IDriss, including its applications and product demos.
 
@@ -39,3 +39,8 @@ Follow our guides to get comprehensive information.
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
