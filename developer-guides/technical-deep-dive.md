@@ -1,8 +1,8 @@
 # Technical Deep Dive
 
-IDriss registry lives on [Polygon](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814). Our contract is verified, and anyone can view the source code [here](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814#code). At its core, IDriss is made up of three mappings.
+The [registry contract](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814) deployed on the Polygon network is the foundation of the address book. The contract has undergone verification, and its source code is open for review [here](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814#code).
 
-First, we generate a hash called _IDrissHash._ It is a hash of the identifier, an optional (and encouraged) secret word (secretWord) , and an additional hash identifying the chosen wallet tag. The identifier is either an email, phone number, or Twitter user ID (which does not change when changing your Twitter username).&#x20;
+At its core, IDriss is made up of three mappings. First, we generate a hash called _IDrissHash._ It is a hash of the identifier, an optional (and encouraged) secret word (secretWord) , and an additional hash identifying the chosen wallet tag. The identifier is either an email, phone number, or Twitter user ID (which does not change when changing your Twitter username).&#x20;
 
 &#x20;$$\begin{align} &IDrissHash = sha256(identifier+secretWord_{optional}+walletTag_{hash})  \\ \\ &IDrissHash_{verify}= sha256(IDrissHash+verifier_{key}) \\ \\ &IDrissHash \rightarrow IDrissHash_{verify}\end{align}$$​
 

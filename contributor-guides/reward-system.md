@@ -4,9 +4,9 @@ description: Earn reward points by inviting friends and creating content
 
 # Reward System
 
-IDriss is a community-owned and operated project. We developed a reward system, which lets the community earn reward points. These can be swapped for ⊜ IDriss after the official release of the token.
+IDriss is a community-owned and operated project. We developed a reward system which lets the community earn reward points. These can be swapped for ⊜ IDriss after the official release of the token.&#x20;
 
-The goal is to accelerate the growth of the IDriss ecosystem by attracting more users and providing a better connectivity of web2 identities with web3 services.
+The goal of this system is to accelerate the growth of IDriss by attracting more users and contributors.
 
 ### **General Rules**
 
@@ -49,7 +49,7 @@ Notably, the most valuable contribution is a sign-up. Every IDriss Ownership ben
 | Discord              | 1 per invite                                                |
 | Sign-Up Referral     | 50 for using someone's code, 50 when someone uses your code |
 | IDriss Ownership     | 100                                                         |
-| Integration Bounties | ???                                                         |
+| Integration Bounties | ?                                                           |
 
 ### **Claiming Rewards**
 

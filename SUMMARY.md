@@ -2,15 +2,12 @@
 
 * [Introduction](README.md)
 
-## Product Guides
+## User Guides
 
-* [IDriss Book](product-guides/idriss-book/README.md)
-  * [Browser Extension](product-guides/idriss-book/browser-extension.md)
-  * [Payments on Twitter](product-guides/idriss-book/online-creator-tipping.md)
-  * [Integrations](product-guides/idriss-book/supported-websites-and-integrations.md)
-* [IDriss Send](product-guides/idriss-send.md)
-* [Protocol Fees](product-guides/protocol-fees.md)
-* [FAQ](product-guides/faq.md)
+* [IDriss Book](user-guides/idriss-book.md)
+* [IDriss Send](user-guides/idriss-send.md)
+* [Protocol Fees](user-guides/protocol-fees.md)
+* [FAQ](user-guides/faq.md)
 
 ## Developer Guides
 
