@@ -4,9 +4,15 @@
 
 IDriss Book is a decentralized address book that lets you use a short and familiar identifier like your Twitter name, email, or phone number instead of a wallet address.
 
+## How to register?
+
+Registration takes less than 60 seconds. Follow this step-by-step registration guide below.
+
+{% embed url="https://twitter.com/IDriss_xyz/status/1534804617455972360" %}
+
 ## Browser Extension
 
-To access the address book you need to install our browser extension on desktop. The extension is available for [Chrome](https://chrome.google.com/webstore/detail/idriss/fghhpjoffbgecjikiipbkpdakfmkbmig), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/idriss-crypto/?utm\_source=addons.mozilla.org\&utm\_medium=referral\&utm\_content=search), and [Edge](https://microsoftedge.microsoft.com/addons/detail/idriss/jgnmbeoapdbocaajhmfjhldhcpngfiol) browser.&#x20;
+To access the address book features you need to install our browser extension on desktop. The extension is available for [Chrome](https://chrome.google.com/webstore/detail/idriss/fghhpjoffbgecjikiipbkpdakfmkbmig), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/idriss-crypto/?utm\_source=addons.mozilla.org\&utm\_medium=referral\&utm\_content=search), and [Edge](https://microsoftedge.microsoft.com/addons/detail/idriss/jgnmbeoapdbocaajhmfjhldhcpngfiol) browser.&#x20;
 
 {% hint style="info" %}
 The extension is also accessible to mobile Android users through [Kiwi Browser](https://kiwibrowser.com/) and [Mises Browser](https://www.mises.site/).&#x20;

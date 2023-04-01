@@ -6,7 +6,7 @@ With over [10,000 product registrations](https://twitter.com/IDriss\_xyz/status/
 
 IDriss has been backed by [CultDAO](https://twitter.com/wearecultdao), an investment DAO with one of the most active communities in web3, as well as thousands of individual donors in [Gitcoin](https://twitter.com/gitcoin) rounds for public goods and open-source projects.
 
-## How to Navigate?
+## Getting Started
 
 This documentation has been designed to provide all the necessary information you need to know, whether you are a user, developer, or a contributor.
 
@@ -16,7 +16,7 @@ Our [Broken link](broken-reference "mention")section provides detailed guidance 
 
 The [Broken link](broken-reference "mention")section gives info on how to be an active community member.
 
-## Getting Started
+## Quick Guides
 
 Short on time? Get a quick overview of IDriss with these Twitter threads.
 
