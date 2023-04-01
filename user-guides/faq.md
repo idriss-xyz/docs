@@ -5,7 +5,7 @@ description: Do you have questions?
 # FAQ
 
 {% tabs %}
-{% tab title="Registration" %}
+{% tab title="IDriss Book Registration" %}
 **Do I need to add a secret word ?**
 
 It is optional. If you do not add a secret word, anyone knowing your email or phone number can look up your wallet address tied to it. If you do add a secret word, only those to whom you give your secret word can look up your wallet address.

@@ -14,7 +14,11 @@ The [MultiSend](https://www.idriss.xyz/send/multi) feature allows batch transfer
 
 Features:
 
-* send crypto & NFTs to multiple emails, phone numbers, and Twitter usernames
+* send crypto & NFTs to multiple identifiers
 * upload a CSV list of recipients
 * paste recipients from a clipboard
 * download a distribution report
+
+Watch MultiSend in action in the tweet below.
+
+{% embed url="https://twitter.com/IDriss_xyz/status/1624740248122011649" %}

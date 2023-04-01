@@ -4,7 +4,7 @@
 
 IDriss Book is a decentralized address book that lets you use a short and familiar identifier like your Twitter name, email, or phone number instead of a wallet address.
 
-## How to register?
+## How to Register?
 
 Registration takes less than 60 seconds. Follow this step-by-step registration guide below.
 
