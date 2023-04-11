@@ -52,9 +52,9 @@ To tip your Twitter friends through the browser extension, you don't need to be 
 
 ## Partner Integrations
 
-Thanks to the open nature of the protocol, IDriss can be used in third-party decentralized applications. In the [ecosystem.md](ecosystem.md "mention") section, you can find a list of dApps that integrated IDriss.
+Thanks to the open nature of the protocol, you can also enjoy using your IDriss in third-party decentralized applications.&#x20;
 
-Take a look at example integrations below.
+Take a look at these example integrations below. A full list of dApps that integrated IDriss can be found in the [ecosystem.md](ecosystem.md "mention") section.
 
 {% embed url="https://twitter.com/syncswap/status/1641079561294331904" %}
 SyncSwap integration
