@@ -6,6 +6,7 @@
 
 * [IDriss Book](user-guides/idriss-book.md)
 * [IDriss Send](user-guides/idriss-send.md)
+* [Ecosystem](user-guides/ecosystem.md)
 * [Protocol Fees](user-guides/protocol-fees.md)
 * [FAQ](user-guides/faq.md)
 

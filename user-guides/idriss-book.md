@@ -52,10 +52,18 @@ To tip your Twitter friends through the browser extension, you don't need to be 
 
 ## Partner Integrations
 
-IDriss is an open-source and permissionless protocol, providing complete freedom for decentralized applications to build on top of it. Explore the growing ecosystem of dApps that have integrated IDriss to leverage its benefits.
+Thanks to the open nature of the protocol, IDriss can be used in third-party decentralized applications. In the [ecosystem.md](ecosystem.md "mention") section, you can find a list of dApps that integrated IDriss.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>SyncSwap</strong></td><td>DEX on zkEVM</td><td>zkEVM DEX</td><td><a href="../.gitbook/assets/SyncSwap Docs Cover.png">SyncSwap Docs Cover.png</a></td><td></td><td><a href="https://syncswap.xyz/">https://syncswap.xyz/</a></td><td><a href="https://syncswap.xyz/">https://syncswap.xyz/</a></td></tr><tr><td><strong>Mises Browser</strong></td><td>Extension-supported mobile web3 browser</td><td></td><td><a href="../.gitbook/assets/Mises Browser Docs Cover.png">Mises Browser Docs Cover.png</a></td><td></td><td><a href="https://www.mises.site/">https://www.mises.site/</a></td><td><a href="https://www.mises.site/">https://www.mises.site/</a></td></tr><tr><td><strong>Questbook</strong></td><td>Grants and bounties for builders in web3</td><td></td><td><a href="../.gitbook/assets/Questbook Docs Cover.png">Questbook Docs Cover.png</a></td><td></td><td></td><td><a href="https://questbook.app/">https://questbook.app/</a></td></tr><tr><td><strong>Elastos Essentials</strong></td><td>Multichain super-wallet</td><td></td><td><a href="../.gitbook/assets/Elastos Essentials Docs Cover.png">Elastos Essentials Docs Cover.png</a></td><td></td><td></td><td><a href="https://elastos.info/essentials-the-super-wallet/">https://elastos.info/essentials-the-super-wallet/</a></td></tr></tbody></table>
+Take a look at example integrations below.
 
-{% hint style="info" %}
-To learn more about how to integrate IDriss, please refer to the [build-on-idriss.md](../developer-guides/build-on-idriss.md "mention") section.
-{% endhint %}
+{% embed url="https://twitter.com/syncswap/status/1641079561294331904" %}
+SyncSwap integration
+{% endembed %}
+
+{% embed url="https://twitter.com/IDriss_xyz/status/1597283137222234112" %}
+Questbook integration
+{% endembed %}
+
+{% embed url="https://twitter.com/IDriss_xyz/status/1516466962494275595" %}
+Elastos Essentials integration
+{% endembed %}
