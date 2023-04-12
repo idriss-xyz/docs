@@ -13,7 +13,7 @@ The goal of this system is to accelerate the growth of IDriss by attracting more
 1. To participate in the reward system, you must have at least one successful IDriss.
 2. Rewards for any Twitter activity will be available after your Twitter handle is linked with IDriss.
 3. Rewards on tweets are based on a combination of different engagement metrics on that tweet.
-4. Rewards on Discord invites are available after posting your IDriss in the respective channel on our [Discord](https://discord.gg/RJhJKamjw5) server. **** Only invite links without expiration date will be measured.
+4. Rewards on Discord invites are available after posting your IDriss in the respective channel on our [Discord](https://discord.gg/RJhJKamjw5) server. Only invite links without expiration date will be measured.
 5. Final rewards will be claimable to the owner address of your IDriss. IDriss ownership was recently introduced, and users that claimed their IDriss in our airdrop must first [claim ownership](https://www.idriss.xyz/dashboard) of their link. Follow us on [Discord](https://discord.gg/RJhJKamjw5) for more details.
 6. Rewards for sign-up referrals will be available on successfully claimed IDriss'.
 7. There are currently no reward limits per user. This may be subject to change if users find ways to exploit or abuse this system.
