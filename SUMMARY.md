@@ -19,6 +19,7 @@
 ## Contributor Guides
 
 * [Reward System](contributor-guides/reward-system.md)
+* [Brand Resources](contributor-guides/brand-resources.md)
 
 ## Links
 
