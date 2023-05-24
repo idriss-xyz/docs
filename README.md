@@ -2,9 +2,9 @@
 
 **IDriss is a community-owned and operated suite of tools that makes web3 more usable for everyone.**
 
-With over [15k product registrations](https://dune.com/kunal/idriss) and a strong community of 10k members on [Discord](https://discord.gg/RJhJKamjw5) and 35k on [Twitter](https://twitter.com/IDriss\_xyz), IDriss attracts more and more users, developers, and DAO contributors who want to be a part of [its mission](https://twitter.com/IDriss\_xyz/status/1517141602518503426).
+With over 20k product registrations and a strong community of 15k members on [Discord](https://discord.gg/RJhJKamjw5) and 45k on [Twitter](https://twitter.com/IDriss\_xyz), IDriss attracts more and more users, developers, and DAO contributors who want to be a part of [its mission](https://twitter.com/IDriss\_xyz/status/1517141602518503426).
 
-IDriss has been backed by [CultDAO](https://twitter.com/wearecultdao), an investment DAO with one of the most active communities in web3, and by 6.8k individual donations in two [Gitcoin](https://twitter.com/gitcoin) rounds for public goods and open-source projects.
+IDriss has been backed by [CultDAO](https://twitter.com/wearecultdao), an investment DAO with one of the most active communities in web3, and by 8.8k individual donations in three [Gitcoin](https://twitter.com/gitcoin) rounds for public goods and open-source projects.
 
 ## Getting Started
 
