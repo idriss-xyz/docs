@@ -44,7 +44,11 @@ Twitter profiles registered with IDriss display a green ID badge next to their n
 
 Hover over the badge to open the payment box, select the amount and network of your choice, and send a payment in a few seconds. Supported networks include Polygon, Ethereum, BNB Chain, and more coming soon.
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/Tipping with IDriss on Twitter.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 {% hint style="info" %}
 To tip your Twitter friends through the browser extension, you don't need to be registered yourself. It's enough to have the browser extension installed.
