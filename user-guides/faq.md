@@ -10,17 +10,11 @@ description: Do you have questions?
 
 **Where is my data saved?**
 
-No personal information is stored on our server. Period. The link between your wallet address and IDriss is a hashed version of your identifier, your password, and an additional key that identifies the address type, and is stored on our public smart contract. Only knowing all three components will uncover the linked wallet address.
-
-**What blockchain is used?**
-
-We operate on the Polygon network. All links are saved on our public [smart contract.](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814)
-
-Tipping is available on Polygon, Ethereum and BSC.
+No personal information is stored on our server. Period. The link between your wallet address and IDriss is a hashed version of your identifier, your password, and an additional key that identifies the address type, and is stored on our public [smart contract](https://polygonscan.com/address/0x2eccb53ca2d4ef91a79213fddf3f8c2332c2a814) on the Polygon network. Only knowing all three components will uncover the linked wallet address.
 
 **Can I change my email, phone number, or Twitter name?**
 
-While no one can change a past transaction on a blockchain, you will be able to delete your link from the [IDriss registry](broken-reference). Head over to your [Management Dashboard](https://www.idriss.xyz/dashboard) for any changes you would like to perform.&#x20;
+While no one can change a past transaction on a blockchain, you will be able to delete your link from the [IDriss registry](broken-reference). Head over to the[ Dashboard](https://www.idriss.xyz/dashboard) for any changes you would like to perform.&#x20;
 
 #### I want to change my Twitter username. Do I lose my IDriss?
 
@@ -28,7 +22,7 @@ No! You don't have to worry about changing your Twitter handle, as the underlyin
 
 **Why do I need to verify my email, phone number, or Twitter name?**
 
-It ensures that no one can impersonate you by tying your identity to their wallet address. After sending the initial one-time password, you will only hear from us again if you make another link! We do not store any personal information, meaning we could not send you a message, even if we wanted to.
+It ensures that no one can impersonate you by tying your identity to their wallet address. After sending the initial one-time password, you will only hear from us again if you make another link. We do not store any personal information, meaning we could not send you a message, even if we wanted to.
 
 **Do I need to add a secret word ?**
 
@@ -48,6 +42,6 @@ There is a one-time fee of $10 to secure your IDriss for a lifetime. Gas costs a
 
 #### I paid but cannot find my IDriss. What's next?
 
-Make sure the sign-up was successful by entering your IDriss on our [Management Dashboard](https://www.idriss.xyz/dashboard). If there is no result, you are asked to enter your payment transaction hash. You can find it in the wallet you have used to pay for your IDriss.
+Make sure the sign-up was successful by entering your IDriss in the[ Dashboard](https://www.idriss.xyz/dashboard). If there is no result, you are asked to enter your payment transaction hash. You can find it in the wallet you have used to pay for your IDriss.
 
 </details>

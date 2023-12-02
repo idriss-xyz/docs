@@ -1,20 +1,16 @@
 # Introduction
 
-**IDriss is a community-owned and operated suite of tools that makes web3 more usable for everyone.**
-
-With over 35k product registrations and a strong community of 30k members on [Discord](https://discord.gg/RJhJKamjw5) and 100k on [Twitter](https://twitter.com/IDriss\_xyz), IDriss attracts more and more users, developers, and DAO contributors who want to be a part of [its mission](https://twitter.com/IDriss\_xyz/status/1517141602518503426).
-
-IDriss has been backed by [CultDAO](https://twitter.com/wearecultdao), an investment DAO with one of the most active communities in web3, and by 19.7k individual donations in four [Gitcoin](https://twitter.com/gitcoin) rounds for public goods and open-source projects.
+**IDriss is a community focused on building open-source tools and consumer apps that make web3 more usable for everyone.**
 
 ## Getting Started
 
-This documentation has been designed to provide all the necessary information you need to know, whether you are a user, developer, or a contributor.
+This documentation has been designed to provide you with all the info you need, whether you are a user, developer, or a contributor.
 
-The [Broken link](broken-reference "mention")section covers everything about using IDriss, including its applications and product demos.
+[Broken link](broken-reference "mention")section covers everything about using IDriss, including its applications and product demos.
 
-Our [Broken link](broken-reference "mention")section provides detailed guidance on integrating IDriss into dApps and also offers additional information for those who want to dive deep into the technical aspects of IDriss.
+[Broken link](broken-reference "mention")section provides detailed guidance on integrating IDriss into dApps and also offers additional information for those who want to dive deep into the technical aspects of IDriss.
 
-The [Broken link](broken-reference "mention")section gives info on how to be an active community member.
+[Broken link](broken-reference "mention")section gives info on how to be an active community member.
 
 ## Quick Guides
 
