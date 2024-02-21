@@ -58,6 +58,10 @@ Hover over the badge to open the payment box, select the amount and network of y
 To tip your Twitter friends through the browser extension, you don't need to be registered yourself. It's enough to have the browser extension installed.
 {% endhint %}
 
+#### Alpha features for Twitter
+
+We're currently experimenting with new features for Twitter. More info coming soon. Opt in by clicking a checkbox in the extension window.&#x20;
+
 ## Partner Integrations
 
 Thanks to the open nature of the protocol, you can also enjoy using your IDriss in third-party decentralized applications.&#x20;
