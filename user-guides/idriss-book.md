@@ -28,9 +28,7 @@ The extension is also accessible to mobile Android users through [Kiwi Browser](
 
 At any time you can click on the green ID icon and open the extension window to lookup an IDriss and copy a wallet address to your clipboard.
 
-<figure><img src="../.gitbook/assets/IDriss Extension Window.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Extension_Window.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Supported Websites
 
@@ -58,9 +56,15 @@ Hover over the badge to open the payment box, select the amount and network of y
 To tip your Twitter friends through the browser extension, you don't need to be registered yourself. It's enough to have the browser extension installed.
 {% endhint %}
 
-#### Alpha features for Twitter
+### Alpha features for Twitter
 
-We're currently experimenting with new features for Twitter. More info coming soon. Opt in by clicking a checkbox in the extension window.&#x20;
+We're currently experimenting with new features for Twitter. Opt in by clicking a checkbox in the extension window. In the near future, you'll be able to have a granular choice and opt in/out for specific integrations individually.
+
+#### Snapshot
+
+Get notifications about ongoing DAO votes on [Snapshot](https://snapshot.org/) while scrolling Twitter. Active proposals are displayed within DAO profiles (as depicted below) and on the main Twitter feed (anchored to tweets by DAOs with active proposals).
+
+<figure><img src="../.gitbook/assets/IDriss_Snapshot.PNG" alt=""><figcaption></figcaption></figure>
 
 ## Partner Integrations
 
