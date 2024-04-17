@@ -70,7 +70,7 @@ See the announcement thread [here](https://twitter.com/IDriss\_xyz/status/176104
 
 #### Polymarket
 
-Trade on the largest decentralized prediction market directly on Twitter. The extension displays trading widgets next to tweets authored by [@Polymarket](https://twitter.com/Polymarket) that show up on your feed. To start using the integration, you have to create an account and deposit balance in the [Polymarket](https://polymarket.com/) app.\
+Trade on the largest decentralized prediction market directly on Twitter. The extension displays trading widgets next to tweets authored by [@Polymarket](https://twitter.com/Polymarket) that show up in your feed. To start using this integration, you have to create an account and deposit balance in the [Polymarket](https://polymarket.com/) app.\
 \
 See the announcement thread [here](https://twitter.com/IDriss\_xyz/status/1780582103396266085). &#x20;
 

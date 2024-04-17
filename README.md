@@ -6,11 +6,11 @@
 
 This documentation has been designed to provide you with all the info you need, whether you are a user, developer, or a contributor.
 
-[Broken link](broken-reference "mention")section covers everything about using IDriss, including its applications and product demos.
+[Broken link](broken-reference "mention") section covers everything about using IDriss, including its applications and product demos.
 
-[Broken link](broken-reference "mention")section provides detailed guidance on integrating IDriss into dApps and also offers additional information for those who want to dive deep into the technical aspects of IDriss.
+[Broken link](broken-reference "mention") section provides detailed guidance on integrating IDriss into dApps and also offers additional information for those who want to dive deep into the technical aspects of IDriss.
 
-[Broken link](broken-reference "mention")section gives info on how to be an active community member.
+[Broken link](broken-reference "mention") section gives info on how to be an active community member.
 
 ## Quick Guides
 
