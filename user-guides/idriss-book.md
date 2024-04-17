@@ -62,9 +62,19 @@ We're currently experimenting with new features for Twitter. Opt in by clicking 
 
 #### Snapshot
 
-Get notifications about ongoing DAO votes on [Snapshot](https://snapshot.org/) while scrolling Twitter. Active proposals are displayed within DAO profiles (as depicted below) and on the main Twitter feed (anchored to tweets by DAOs with active proposals).
+Get notifications about ongoing DAO votes on [Snapshot](https://snapshot.org/) while scrolling Twitter. Active proposals are displayed within DAO profiles (as depicted below) and on the main Twitter feed (anchored to tweets by DAOs with active proposals).\
+\
+See the announcement thread [here](https://twitter.com/IDriss\_xyz/status/1761049574691819798).
 
 <figure><img src="../.gitbook/assets/IDriss_Snapshot.PNG" alt=""><figcaption></figcaption></figure>
+
+#### Polymarket
+
+Trade on the largest decentralized prediction market directly on Twitter. The extension displays trading widgets next to tweets authored by [@Polymarket](https://twitter.com/Polymarket) that show up on your feed. To start using the integration, you have to create an account and deposit balance in the [Polymarket](https://polymarket.com/) app.\
+\
+See the announcement thread [here](https://twitter.com/IDriss\_xyz/status/1780582103396266085). &#x20;
+
+<figure><img src="../.gitbook/assets/Polymarket_IDriss_3_with_amount_100.PNG" alt=""><figcaption></figcaption></figure>
 
 ## Partner Integrations
 
