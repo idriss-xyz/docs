@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # IDriss Send
 
 ## What is IDriss Send?
