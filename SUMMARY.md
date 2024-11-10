@@ -21,9 +21,11 @@
 * [Reward System](contributor-guides/reward-system.md)
 * [Brand Resources](contributor-guides/brand-resources.md)
 
-## Links
+## Resources
 
 * [Twitter](https://twitter.com/IDriss\_xyz)
 * [Discord](https://discord.gg/RJhJKamjw5)
 * [Mirror Blog](https://idriss.mirror.xyz/)
 * [GitHub](https://github.com/idriss-crypto?type=source)
+* [Terms of Service](resources/terms-of-service.md)
+* [Privacy Policy](resources/privacy-policy.md)
