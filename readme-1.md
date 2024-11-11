@@ -1,5 +1,6 @@
 ---
 description: Apps uniquely enabled by crypto and AI
+hidden: true
 ---
 
 # Introduction
