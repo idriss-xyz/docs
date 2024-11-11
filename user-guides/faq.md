@@ -1,5 +1,6 @@
 ---
 description: Do you have questions?
+hidden: true
 ---
 
 # FAQ

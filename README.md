@@ -1,6 +1,10 @@
+---
+hidden: true
+---
+
 # Introduction
 
-**IDriss is a community focused on building open-source tools and consumer apps that make web3 more usable for everyone.**
+**IDRISS is focused on building open-source tools and consumer apps that make crypto more usable for everyone.**APPS UNIQUELY ENABLED BY CRYPTO AND AI
 
 ## Getting Started
 

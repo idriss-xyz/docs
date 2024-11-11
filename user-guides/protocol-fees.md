@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Protocol Fees
 
 This section provides an overview of fees charged by the IDriss protocol. All the values are modifiable and eventually will be subject to updates through decentralized governance.

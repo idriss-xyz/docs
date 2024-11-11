@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # IDriss Book
 
 ## What is IDriss Book?

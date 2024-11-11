@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Ecosystem
 
 IDriss is an open-source and permissionless protocol, providing complete freedom for decentralized applications to build on top of it. Explore the growing ecosystem of dApps that have integrated IDriss to leverage its benefits.
