@@ -22,8 +22,12 @@ You can find all our contracts on this page and on [GitHub](https://github.com/i
 * [Ethererum](https://etherscan.io/address/0xe18036D7E3377801a19d5Db3f9b236617979674E) address: 0xe18036D7E3377801a19d5Db3f9b236617979674E
 * [BSC](https://www.bscscan.com/address/0xdffce6d7a3c1ada65aed49096b380b5b6814fffd) address: 0xdffce6d7a3c1ada65aed49096b380b5b6814fffd
 * [zkSync Era](https://explorer.zksync.io/address/0x6753D35A81d52C49485f5fbB93a059046D1f47a8) address: 0x6753D35A81d52C49485f5fbB93a059046D1f47a8
-* [Linea ](https://explorer.linea.build/address/0x7Ef966A9F75Ae230F0583DCD24Ac689E47f533be)address: 0x7Ef966A9F75Ae230F0583DCD24Ac689E47f533be
-* [Optimism ](https://optimistic.etherscan.io/address/0x43f532d678b6a1587be989a50526f89428f68315)address: 0x43f532d678b6a1587be989a50526f89428f68315
+* [Linea](https://explorer.linea.build/address/0x7Ef966A9F75Ae230F0583DCD24Ac689E47f533be) address: 0x7Ef966A9F75Ae230F0583DCD24Ac689E47f533be
+* [Base](https://basescan.org/address/0x324ad1738b9308d5af5e81edd6389bfa082a8968) address: 0x324ad1738b9308d5af5e81edd6389bfa082a8968
+* [Optimism](https://optimistic.etherscan.io/address/0x43f532d678b6a1587be989a50526f89428f68315) address: 0x43f532d678b6a1587be989a50526f89428f68315
+* [Mantle](https://mantlescan.xyz/address/0x324Ad1738B9308D5AF5E81eDd6389BFa082a8968) address: 0x324Ad1738B9308D5AF5E81eDd6389BFa082a8968
+* [Scroll](https://scrollscan.com/address/0x324ad1738b9308d5af5e81edd6389bfa082a8968) address: 0x324ad1738b9308d5af5e81edd6389bfa082a8968
+* [AlephZero EVM](https://evm-explorer.alephzero.org/address/0xcA6742d2d6B9dBFFD841DF25C15cFf45FBbB98f4) address: 0xcA6742d2d6B9dBFFD841DF25C15cFf45FBbB98f4
 
 #### Payment
 
@@ -32,6 +36,11 @@ You can find all our contracts on this page and on [GitHub](https://github.com/i
 * [BSC](https://www.bscscan.com/address/0xcC7238faf13809967c1FF15C5f58E88A093a3dc6) address: 0xcC7238faf13809967c1FF15C5f58E88A093a3dc6
 * [zkSync Era](https://explorer.zksync.io/address/0xc179c92Ae06f4473758630C306D8C2c7d58AFb5B) address: 0xc179c92Ae06f4473758630C306D8C2c7d58AFb5B
 * [Linea](https://explorer.linea.build/address/0x74BD1b29B997ec081eb7AF06F2fd67CbfC74D26e) address: 0x74BD1b29B997ec081eb7AF06F2fd67CbfC74D26e
+* [Base](https://basescan.org/address/0xe18036d7e3377801a19d5db3f9b236617979674e) address: 0xe18036d7e3377801a19d5db3f9b236617979674e
+* [Optimism](https://optimistic.etherscan.io/address/0x2d0a12b80e4423a64f7bef99fcd789fbd6096d3d) address: 0x2d0a12b80e4423a64f7bef99fcd789fbd6096d3d
+* [Mantle](https://explorer.mantle.xyz/address/0xe18036D7E3377801a19d5Db3f9b236617979674E) address: 0xe18036D7E3377801a19d5Db3f9b236617979674E
+* [Scroll](https://scrollscan.com/address/0xe18036d7e3377801a19d5db3f9b236617979674e) address: 0xe18036D7E3377801a19d5Db3f9b236617979674E
+* [AlephZero EVM](https://evm-explorer.alephzero.org/address/0xcbf32F0a9BF93256BAD8cD31cF37a3e914245908) address: 0xcbf32F0a9BF93256BAD8cD31cF37a3e914245908
 
 </details>
 
