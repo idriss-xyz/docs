@@ -1,55 +1,110 @@
 # Privacy Policy
 
-_Last Update: November 10, 2024_
+_Last updated on January 2, 2025_
 
-### Introduction
+This is the privacy policy of IDRISS DAO LLC (“IDRISS”, “We”, “Our”, or “Us” as well as “we”, “our” or “us”), a company incorporated with limited liability in the Republic of Marshall Island, with registered office in PO Box 852, Long Island Rd, Majuro, Marshall Islands MH 96960.
 
-At IDriss, one of our main priorities is the privacy of our visitors. This Privacy Policy outlines the various types of information we collect and record, as well as the ways in which we use it. This policy is relevant to our applications, websites, and any services (collectively, the "Service") that can be accessed through [https://www.idriss.xyz](https://www.idriss.xyz/). Your use of the Service is subject to this Policy as well as our [Terms of Service](https://www.idriss.xyz/tos).
+This Privacy Policy applies to the website [https://www.idriss.xyz](http://www.idriss.xyz/) (“Website”) and its associated domains or subdomains (collectively the “Services”). By accessing or using our Services, you undersign that you are, at least 16 years old and that you have read, understood, and agree to the collection, storage, use, and disclosure of your personal information as described herewith. If you disagree with the terms of this privacy policy, please do not access the website.
 
-### Consent
+In its capacity as a personal data controller, the Organization carries out its activities in strict compliance with the legal requirements regarding the protection of natural persons in the collection and processing of their personal data. Pursuant to the provisions of Art. 13 and Art. 14 of the General Data Protection Regulation (GDPR), IDRISS hereby provides the necessary information regarding the collection and processing of your personal data while using this website.&#x20;
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+This privacy policy is compliant with the EU General Data Protection Regulation (GDPR). The California Consumer Privacy Act (CCPA) is not applicable to this website because of IDRISS’s status as a non-profit entity: “the CCPA applies only to for-profit businesses that do business in California”. For more information please visit the [Department of Justice of the State of California website](https://oag.ca.gov/consumer-privacy-tool).&#x20;
 
-### Information we collect
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Website, and you waive the right to receive specific notice of each such change or modification. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted.
 
-The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+1\. Definitions and key terms
 
-### Blockchain
+For the purposes of this Privacy policy:
 
-Given that the blockchain is a public record, the transaction records associated with any transactions you make using IDriss will be publicly available on the blockchain. To learn more about what data is stored when interacting with IDriss, visit [our documentation](https://docs.idriss.xyz/developer-guides/technical-deep-dive). For your security and privacy, we strongly recommend only using your public wallet addresses when engaging with our service.
+\- “Account” means a unique account created for you to access our Service or parts of our Service;
 
-### How we use your information
+\- “Controller” means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.
 
-We use the information we collect to operate website and analyze how you use our website. We do not store your personal information such as emails or phone numbers for reasons other than you consent to.
+\- “Data subject” means a natural person identified or identifiable whose personal data are processed by the controller.
 
-### Log files
+\- “IP address” - every device connected to the Internet is assigned a number known as an Internet protocol (IP) address. These numbers are usually assigned in geographic blocks. An IP address can often be used to identify the location from which a device is connecting to the Internet;
 
-IDriss follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.
+\- “Personal data” means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
 
-### Cookies and Web Beacons
+\- “Processing” means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;
 
-Like any other website, IDriss uses cookies to maintain necessary functionalities of the website. Only cookies that are needed for the usage of this website are temporarily stored on visitor’s browsers. We may also use Google Analytics to analyze product insights. These cookies are used to store information including visitors’ preferences, information you have provided in the sign-up process (we do not store this information on our backend) and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.
+\- “Processor” means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller;
 
-### Third Party Privacy Policies
+\- “Site“ refers to IDRISS website which is [https://www.idriss.xyz](http://www.idriss.xyz)
 
-IDriss’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites.
+-“Supplemental Privacy Policy” means privacy policy which regulate different areas of the website or the features or services;
 
-### CCPA Privacy Rights (Do Not Sell My Personal Information)
+\- “You” (also “your” or “yours”) refers to a person who accesses, views and navigates in the Site;
 
-Under the CCPA, among other rights, California consumers have the right to: Request that a business that collects a consumer’s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers. Request that a business delete any personal data about the consumer that a business has collected. Request that a business that sells a consumer’s personal data, not sell the consumer’s personal data. If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+2\. Identity and contact details of the controller
 
-### GDPR Data Protection Rights
+\- Controller: IDRISS DAO LLC, a company incorporated with limited liability in the Republic of Marshall Island, with registered office in PO Box 852, Long Island Rd, Majuro, Marshall Islands MH 96960.
 
-We would like to make sure you are fully aware of all your data protection rights. Every user is entitled to the following: The right to access – You have the right to request copies of your personal data. The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete. The right to erasure – You have the right to request that we erase your personal data saved on our website, under certain conditions. The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions. The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions. The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions. If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+\- Contact details: E-mail: [hello@idriss.xyz](mailto:hello@idriss.xyz).
 
-### Children’s Information
+3\. Categories of collected and processed personal data
 
-Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity. IDriss does not knowingly collect any Personal Identifiable Information from anyone, including children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+The present Article 3 and the subsequent Article 4 and 5 are mainly referred to the data communicated using the “contact us” and the “newsletter form” which means the information you decide to send to us via email and your email.
 
-### Changes to this Privacy Policy
+Moreover, IDRISS collects your personal data through the use of cookies on this website.&#x20;
 
-We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on the Service. If required by law we will also provide notification of changes in another way that we believe is reasonably likely to reach you, such as via email or another manner through the Service. Any modifications to this Privacy Policy will be effective upon our posting the modified version (or as otherwise indicated at the time of posting). In all cases, your use of the Service after the effective date of any modified Privacy Policy indicates your acceptance of the modified Privacy Policy.
+4\. Purposes and legal basis of processing
 
-### Contact us
+4.1 Purposes
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at [hello@idriss.xyz](mailto:hello@idriss.xyz).
+IDRISS collects and processes your personal data to be able to reply to your inquiries in case of the “contact us” form and to be able to add you to IDRISS newsletter in case of the “newsletter” form.
+
+The purpose of collecting data through the use of cookies is to provide a better and more personalized experience of navigation of this website to you.&#x20;
+
+4.2 Legal basis
+
+If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have a legal basis for doing so under applicable EU laws. The legal basis to reply to your inquiry is “the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract” pursuant to Article 6, 1(b) GDPR.
+
+The legal basis of collecting your information through the use of cookies is the legal basis of IDRISS of optimizing its website pursuant to Article 6, 1(f) GDPR.
+
+5\. Period for which the personal data will be stored
+
+IDRISS stores your personal data for a reasonable period of time and never for longer than it is absolutely necessary. In establishing contractual relations with you, IDRISS stores your personal data throughout the established relations. Normally, the Organization stores your personal data for 5 (five) years, starting from the beginning of the calendar year following the year of termination of the relationship between us. We may store your personal data for a longer period for reporting, tax and accounting purposes, as well as to protect our legitimate interests. After the expiration of the stipulated terms and if there is no other legal basis for the processing of your personal data, the data will be deleted.
+
+6\. Disclosure and transfer of personal data
+
+By using the Site and sending information and/or your personal data to IDRISS you acknowledge that part of your personal information may be processed in the United States. The UE Commission has recently issued an adequacy decision in relation to the USA but IDRISS is not a member of the privacy shield and, therefore, data will be transferred to the USA on the basis of the consent of data subject or if the transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subject's request to pursuant to Article 49, 1, (A) or (B) of GDPR. By communicating your personal data to IDRISS you hereby fully and irrevocably agree that part of your data may be transfered to the USA.&#x20;
+
+In strict compliance with the legal requirements, IDRISS may disclose or transfer your personal data to the following recipients under particular circumstances:
+
+* Agents, businesses, or service providers who process your personal information for providing the Services to you. The respective receiving third parties shall observe and adhere to strict confidentiality agreements. We are committed to maximum protection of your personal information, therefore, we only deal with ethical suppliers and business partners who demonstrate similar values and are bound by privacy laws of the same standard.
+* Law enforcement agencies and/or other public authorities (e.g., a court or a government agency) when required to do so by law.
+
+7\. Cookie policy
+
+We are using cookies to improve the quality of the client’s experience on the Site. The cookie, a small text file that is stored on the customer’s computer for record-keeping purposes, can be used as an identification card: a cookie is unique to your computer and only the server that gave it to you can read them. Using traffic log cookies, we can identify and monitor what pages are mostly used. This will help us to analyze data about website traffic and later improve our website. Most existing web browsers can automatically receive cookies, but you can change your browser settings and decide whether to accept cookies or not. There is one important characteristic – cookies do not provide websites with personal information (such as email addresses or other information) without your permission. Once you provide a website with personal information, your information can be linked to the data stored in the cookie. You should remember that we will not share your personal information with third parties if we do not have permission from you or if we are not required to do it by law. Our main goal is to make our website as efficient for you as we can. We can personalize your web experience on our website with cookies: we will remember you as an individual and what content was interesting for you, and as a result, we can remove web pages that are not important and offer you the most popular products and services based on your web preferences (for example we may send you promotional emails with information about our new products, new special offers, special deals, etc.).
+
+8\. Your privacy rights&#x20;
+
+As a data subject, under the GDPR you have the following rights in relation to the personal data you provide:
+
+* The right to be informed – you have the right to receive appropriate transparent information about the processed personal data, the purposes and basis of the processing, the recipients or categories of recipients to whom your personal data has been or will be disclosed, the storage period, as well as any other information about your personal data.
+* The right of access – you have the right to access your personal data processed by IDRISS, as well as to request a copy of the personal data in a structured, commonly used format.
+* The right to rectification – you have the right to request rectification of your personal data if it is incomplete, inaccurate or out of date.
+* The right to erasure (the right to be forgotten) – you have the right to request the erasure of your personal data under particular circumstances: it is no longer necessary in relation to the purposes for which it was collected; you have withdrawn your consent to the processing, and there is no other legal basis for processing; when your personal data has been unlawfully processed; in the presence of other legal grounds.
+* The right to object – you have the right to object to the processing of your personal data.
+* The right to restrict processing – you have the right to withdraw your consent to the processing of your personal data by the controller or the processor at any time and free of charge.
+* The right to data portability – you have the right to request the transfer of your personal data to another personal data controller when technically feasible.
+* Right of protection – you have the right to defend your rights by judicial or administrative means if you believe that your rights as a data subject have been infringed in any way.
+* Rights related to automated decision-making and profiling – you have the right to oppose any automated decision-making and profiling.&#x20;
+
+9\. Exercising rights related to personal data
+
+At any time, you can withdraw your consent or object to the processing of your personal data and exercise your other rights as a data subject. For this purpose, you should send us a notice using one of the contact details provided in this policy.
+
+Upon receipt of such a notice, IDRISS will provide information regarding the actions taken within one month of receipt. If necessary, this period may be extended by another two months, considering the complexity and number of requests made by one data subject. We will inform you of any extension within one month of receiving the notice, stating the reasons for the extension.&#x20;
+
+IDRISS will provide the necessary information in relation to the notice only if the sender has been properly identified. IDRISS is not obliged to respond to a notice in the event that it is unable to identify the data subject or his/her credentials. We may request the provision of additional information and documents necessary to confirm the identity and authority of the data subject when there are reasonable concerns.
+
+Your questions, comments, requests or complaints regarding this Privacy Policy shall be addressed to [hello@idriss.xyz](mailto:hello@idriss.xyz).
+
+If you are a resident of the European Economic Area and believe we maintain your Personal Data within the scope of the General Data Protection Regulation (GDPR), you may direct questions or complaints to the supervisory authority of the place where you reside.&#x20;
+
+If you are a resident of the United Kingdom and believe we maintain your Personal Data within the scope of the applicable laws relating to personal data in the United Kingdom, you may direct questions or complaints to the UK supervisory authority, the Information Commissioner’s Office.
+
+\
