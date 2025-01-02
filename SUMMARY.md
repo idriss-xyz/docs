@@ -8,12 +8,12 @@
 * [Creators](user-guides/creators.md)
 * [Prediction Markets](user-guides/prediction-markets.md)
 
-## IDRISS Token <a href="#dao" id="dao"></a>
+## IDRISS Token
 
-* [Tokenomics](dao/tokenomics.md)
-* [Token Sale](dao/token-sale.md)
-* [Airdrop](dao/airdrop.md)
-* [Terms and Conditions](dao/terms-and-conditions.md)
+* [Tokenomics](idriss-token/tokenomics.md)
+* [Token Sale](idriss-token/token-sale.md)
+* [Airdrop](idriss-token/airdrop.md)
+* [Terms and Conditions](idriss-token/terms-and-conditions.md)
 
 ## Resources
 
