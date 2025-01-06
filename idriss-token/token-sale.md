@@ -12,11 +12,11 @@ IDRISS is a proudly self-funded project. Instead of the typical reliance on vent
 
 #### Sale Mechanism
 
-The sale works similarly to a fixed-price sale. We use a single-sided liquidity mechanism, where only IDRISS tokens are added to the liquidity pool, and buyers pay in USDC. The liquidity range will be set minimally around 0.03 USDC/IDRISS, creating a price floor and ensuring price stability throughout the sale.
+The sale works similarly to a fixed-price sale. We use a single-sided liquidity mechanism based on Uniswap v3, where only IDRISS tokens are added to the liquidity pool, and buyers pay in USDC. The liquidity range will be set minimally around 0.03 USDC/IDRISS, creating a price floor and ensuring price stability throughout the sale.
 
 #### Post-Sale
 
-Immediately after the sale, 100% of the USDC proceeds will be swapped for ETH and added to a full-range UniV3 ETH/IDRISS pool, along with the IDRISS tokens reserved for liquidity. This opens the market for trading on Uniswap and DEX aggregators like Jumper.
+Immediately after the sale, 100% of the USDC proceeds will be swapped for ETH and added to a full-range UniV3 IDRISS/ETH pool, along with the IDRISS tokens reserved for liquidity. This opens the market for trading on Uniswap and DEX aggregators like Jumper.
 
 #### FAQ
 

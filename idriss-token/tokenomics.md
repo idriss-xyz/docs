@@ -20,14 +20,14 @@ Token holders have voting rights within an Optimistic Governance framework. This
 
 
 
-<table><thead><tr><th width="114">Category</th><th width="111">Percentage</th><th width="525">Description</th></tr></thead><tbody><tr><td>Sale</td><td>5%</td><td>Publicly sold with 100% of the proceeds funding liquidity</td></tr><tr><td>Liquidity</td><td>5%</td><td>Paired with USDC raised from the sale to create a trading pair on<br>a decentralized exchange (DEX)</td></tr><tr><td>Airdrop</td><td>20%</td><td>Retroactive airdrop for users who contributed to the ecosystem with <br>a portion reserved for partner communities</td></tr><tr><td>Team</td><td>20%</td><td>Allocated to the current team, future team members, community contributors, and advisors</td></tr><tr><td>DAO Treasury</td><td>50%</td><td>Reserved for the DAO treasury to fund operations, development, marketing, user incentives, and grants</td></tr></tbody></table>
+<table><thead><tr><th width="114">Category</th><th width="111">Percentage</th><th width="525">Description</th></tr></thead><tbody><tr><td>Sale</td><td>5%</td><td>Publicly sold with 100% of the proceeds funding liquidity</td></tr><tr><td>Liquidity</td><td>5%</td><td>Paired with funds raised from the sale to create a trading pair on<br>a decentralized exchange (DEX)</td></tr><tr><td>Airdrop</td><td>20%</td><td>Retroactive airdrop for users who contributed to the ecosystem with <br>a portion reserved for partner communities</td></tr><tr><td>Team</td><td>20%</td><td>Allocated to the current team, future team members, community contributors, and advisors</td></tr><tr><td>DAO Treasury</td><td>50%</td><td>Reserved for the DAO treasury to fund operations, development, marketing, user incentives, and grants</td></tr></tbody></table>
 
 #### **Vesting**
 
 * Sale & Liquidity: fully liquid at TGE
 * Airdrop: exact release mechanism to be announced
 * Team: 3-year monthly linear vesting with a 3-month cliff
-* DAO Treasury: 3-year monthly linear vesting with a 5% unlock at TGE
+* DAO Treasury: 3-year monthly linear vesting with a 5% TTS unlock at TGE
 
 
 
