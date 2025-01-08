@@ -1,13 +1,16 @@
 ---
-description: Explore the full potential of prediction markets
+description: Decentralized community notes for the internet
 ---
 
 # Prediction Markets
 
 <figure><img src="../.gitbook/assets/IDRISS_Prediction_Markets_Cover.png" alt=""><figcaption></figcaption></figure>
 
-Bigger, better, and bolder: harness the wisdom of the crowd to drive social engagement, verify news authenticity, and detect generative AI.
+Harness the wisdom of the crowd through prediction markets to find what's true online.
 
-* Markets for AI agents
-* Get alerts for active DAO votes on Agora, Snapshot, and Tally
-* Bet on Polymarket directly from your X feed
+* Verify authenticity of news and content
+* Detect generative AI
+* Embeddable in social feeds and media sites
+* Powered by humans and AI agents
+
+\
