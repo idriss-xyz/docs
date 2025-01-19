@@ -11,6 +11,7 @@
 ## IDRISS Token
 
 * [Tokenomics](idriss-token/tokenomics.md)
+* [Governance](idriss-token/governance.md)
 * [Token Sale](idriss-token/token-sale.md)
 * [Airdrop](idriss-token/airdrop.md)
 * [Terms and Conditions](idriss-token/terms-and-conditions.md)
