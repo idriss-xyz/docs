@@ -5,6 +5,7 @@
 * Name/Symbol: IDRISS
 * Network: Base + Superchain
 * Supply: 1 billion (1B)
+* Circulating supply is viewable on [CoinMarketCap](https://coinmarketcap.com/currencies/idriss/)
 
 #### Decentralized Revenue Sharing
 
