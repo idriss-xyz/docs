@@ -13,7 +13,7 @@ Project revenue streams will be distributed through permissionless smart contrac
 
 #### Optimistic Governance
 
-Token holders have voting rights within an Optimistic Governance framework. This model combines startup-like agility with transparency. A core team manages day-to-day operations, while token holders provide decentralized oversight. They trust the team to make routine decisions but retain the power to veto major changes or replace the team if needed. Details about the Optimistic Governance framework will be announced before the airdrop.
+Token holders have voting rights within an Optimistic Governance framework. This model combines startup-like agility with transparency. A core team manages day-to-day operations, while token holders provide decentralized oversight. They trust the team to make routine decisions but retain the power to veto major changes or replace the team if needed. Full community governance launches in early March.
 
 #### Allocations
 

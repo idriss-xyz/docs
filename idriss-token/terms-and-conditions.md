@@ -94,6 +94,22 @@ By purchasing the ownership of one or more Tokens in the primary or secondary ma
 
 2.4 The Company is not responsible for the above listed factors, as well as those not listed above, impacting the price of the Token and by accepting these Terms You specifically accept that the price of the Token may be totally volatile and that you may lose your entire investment.
 
+2.5 As a Token holder, You will have the right to lock your Token/s in the Vault for the time that You wish so as well as You will be able to unlock it at any given time. By locking your Token/s you will have the following benefits:
+
+* Earn 12% APR subsidized by IDRISS DAO Treasury and calculated based on your time-averaged staked balance over the course of the year.
+* Tap into the decentralized revenue sharing from IDRISS, with details finalized in Q2 2025.
+
+Additionally if you lock at least 10,000 IDRISS You will have access to premium features, including but not limited to unlimited subscriptions in IDRISS copilot and early access to new features.&#x20;
+
+2.6 If You are eligible for the airdrop, as described in the following Article 3, you can opt to claim and lock your Tokens under the two specific following options:
+
+* You can claim 50% of the airdrop tokens and deposit them into the vault without a lockup period, but you forgo the remaining 50% of the airdrop.
+* You can claim 100% of the airdrop, but by doing so, you agree to lock them until July 6, 2025, when they will be deposited and unlocked in your vault.
+
+3\. Airdrop
+
+On January 27, the airdrop will be live for those who are eligible based on the rules outlined [here](https://docs.idriss.xyz/idriss-token/retroactive-distribution). Among the eligible participants, we have excluded wallets that we identified as potentially being Sybil wallets. If you believe that you were eligible for the airdrop and that your wallet should not be considered a Sybil wallet, you have the right to appeal our decision using [this link](https://docs.google.com/forms/d/e/1FAIpQLSe6mGvbtnCChQ23lt75qn6iZ0wBh3Wo18nK1vcY2huhNQu1tg/viewform). Please note that our decision on your appeal is final and cannot be contested in court or through the arbitration provisions contained in these Terms. By participating in our airdrop, you irrevocably accept that we have the right to exclude you from the airdrop or deem you ineligible, and that no damages or monetary compensation will be paid to you under any circumstances as a result of not being admitted to the airdrop.
+
 3\. Force Majeure
 
 The Company is not liable for failure to perform caused by unavoidable casualty, delays in delivery of materials, embargoes, government or regulatory orders, acts of civil or military authorities, acts by common carriers, emergency conditions (including weather conditions), acts of terrorism, security issues arising from the technology used, failure of Ethereum or other similar platform, or any similar unforeseen event that renders performance commercially implausible. If an event of force majeure occurs, the party injured by the other’s inability to perform may elect to suspend the terms, in whole or part, for the duration of the force majeure circumstances. The party experiencing the force majeure circumstances shall cooperate with and assist the injured party in all.

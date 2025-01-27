@@ -1,3 +1,5 @@
 # Governance
 
-Coming soon. In the meantime, follow IDRISS' space on [Snapshot](https://snapshot.box/#/s:idrissxyz.eth).
+Full community governance launches in early March.\
+\
+In the meantime, follow IDRISS DAO on [Snapshot](https://snapshot.box/#/s:idrissxyz.eth).
