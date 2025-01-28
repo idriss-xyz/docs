@@ -27,8 +27,16 @@ Token holders have voting rights within an Optimistic Governance framework. This
 
 * Sale & Liquidity: fully liquid at TGE
 * Airdrop: exact release mechanism to be announced
-* Team: 3-year monthly linear vesting with a 3-month cliff
+* Team: 3-year monthly linear vesting with a 1-year cliff\*
 * DAO Treasury: 3-year monthly linear vesting with a 5% TTS unlock at TGE
+
+#### \*Team Vesting Details
+
+* 18.5% of the total 20% team allocation is under a 3-year vesting schedule with a 1-year cliff.
+* 5.5% of this 18.5% remains unallocated and reserved for future contributors. These tokens follow the new schedule with a 1-year cliff, meaning their first partial unlock could occur much later depending on when they’re allocated.
+* The remaining 1.5% was allocated under the original 3-year schedule with a 3-month cliff to early community contributors and advisors.
+
+
 
 
 
