@@ -30,7 +30,7 @@ _You have registered an IDRISS account or used the browser extension_
 
 _You donated a total of $20 to any project in open source rounds between GR15 (September 2022) and GG20 (Aprill 2024)_
 
-IDRISS is proudly self-funded with support from grants, and Gitcoin has been our biggest source of funding. Donors like you choose to support public goods, helping to create positive outcomes that encourage innovation in open-source projects.
+IDRISS is proudly self-funded with support from grants, and Gitcoin has been our biggest source of funding. Donors like you chose to support open-source projects, helping them grow and continue building.
 
 **Sale Participant**
 
@@ -42,7 +42,7 @@ By participating in the sale, you helped bootstrap liquidity for IDRISS DA&#x4F;
 
 _You are a highly engaged member of a partner community_
 
-These excellent projects and communities are key partners, providing the infrastructure we use, being part of our products, or influencing what we build by having their communities actively engage with our products. We see them as key players in the future of IDRISS, and we are committed to continuing to build for these communities and on their infrastructure.
+These projects and communities are our key partners. They provide the infrastructure or platform we build on, contribute to our products as early users, or expand the broader crypto ecosystem through their work.
 
 <table><thead><tr><th width="155"></th><th></th></tr></thead><tbody><tr><td>Aavegotchi</td><td>Holders of Aavegotchis</td></tr><tr><td>Across</td><td>Most active users (total vol. >$5k, routes >10, active weeks >20, tx count >30)</td></tr><tr><td>ETHGlobal</td><td>Holders of POAPs issued at in-person hackathons since 2018</td></tr><tr><td>Farcaster</td><td>Followers of @idriss account with a verified EVM address</td></tr><tr><td>Jumper</td><td>Holders of Jumper Loyalty Pass level 15 and higher as of Nov 1</td></tr><tr><td>Parallel</td><td>Collectors on the Ardent List and Avatar holders</td></tr><tr><td>Polymarket</td><td>Most active users (total vol. >$5k, active weeks >15, total trades >30)</td></tr><tr><td>Agora<br>Snapshot<br>Tally</td><td>Most active voters (voted in >80% of votes in orgs with >100 members and >3 proposals in the year before the Snapshot)</td></tr></tbody></table>
 
