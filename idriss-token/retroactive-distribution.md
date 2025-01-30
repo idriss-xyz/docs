@@ -28,9 +28,9 @@ _You have registered an IDRISS account or used the browser extension_
 
 **Gitcoin Donor**
 
-_You donated a total of $20 to any project in open source rounds between GR15 (September 2022) and GG20 (Aprill 2024)_
+_You donated a total of $20 to projects in open source rounds between GR15 (September 2022) and GG20 (Aprill 2024)_
 
-IDRISS is proudly self-funded with support from grants, and Gitcoin has been our biggest source of funding. Donors like you chose to support open-source projects, helping them grow and continue building.
+IDRISS is self-funded with support from grants, and Gitcoin has been our biggest source of grant funding. Donors like you chose to support open-source projects, helping them grow and continue building.
 
 **Sale Participant**
 
