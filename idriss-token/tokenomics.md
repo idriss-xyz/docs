@@ -7,11 +7,11 @@
 * Supply: 1 billion (1B)
 * Circulating supply is viewable on [CoinMarketCap](https://coinmarketcap.com/currencies/idriss/)
 
-#### Decentralized Revenue Sharing
+#### Decentralized revenue sharing
 
 Project revenue streams will be distributed through permissionless smart contracts, compensating users and token holders for specific actions they perform. The IDRISS DAO will finalize the details of this decentralized revenue sharing mechanism in Q2 2025.
 
-#### Optimistic Governance
+#### Optimistic governance
 
 Token holders have voting rights within an Optimistic Governance framework. This model combines startup-like agility with transparency. A core team manages day-to-day operations, while token holders provide decentralized oversight. They trust the team to make routine decisions but retain the power to veto major changes or replace the team if needed. Full community governance launches in early March.
 
@@ -30,7 +30,7 @@ Token holders have voting rights within an Optimistic Governance framework. This
 * Team: 3-year monthly linear vesting with a 1-year cliff\*
 * DAO Treasury: 3-year monthly linear vesting with a 5% TTS unlock at TGE
 
-#### \*Team Vesting Details
+#### \*Team vesting details
 
 * 18.5% of the total 20% team allocation is under a 3-year vesting schedule with a 1-year cliff.
 * 5.5% of this 18.5% remains unallocated and reserved for future contributors. These tokens follow the new schedule with a 1-year cliff, meaning their first partial unlock could occur much later depending on when they’re allocated.

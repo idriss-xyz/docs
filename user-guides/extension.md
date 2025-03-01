@@ -13,7 +13,7 @@ Enhance your browsing experience with crypto micropayments, DAO vote alerts, and
 * Bet on Polymarket directly from your X feed
 * Copy onchain moves of your favorite traders
 
-The extension is available for [Chrome, Brave, and Arc](https://chromewebstore.google.com/detail/idriss/fghhpjoffbgecjikiipbkpdakfmkbmig) browsers on desktop. Learn more in the announcement thread [here](https://x.com/idriss_xyz/status/1857374367304568916).&#x20;
+The extension is available for [Chrome, Brave, and Arc](https://chromewebstore.google.com/detail/idriss/fghhpjoffbgecjikiipbkpdakfmkbmig) browsers on desktop. Learn more in the [thread](https://x.com/idriss_xyz/status/1857374367304568916).&#x20;
 
 {% hint style="info" %}
 The extension is also accessible to mobile Android users through [Kiwi Browser](https://kiwibrowser.com/) and [Mises Browser](https://www.mises.site/).&#x20;
@@ -23,7 +23,7 @@ The extension is also accessible to mobile Android users through [Kiwi Browser](
 
 #### Tipping badges
 
-Twitter profiles registered with IDriss display a green badge next to their names, which can be viewed by turning on the extension.
+Twitter profiles registered with IDRISS display a green badge next to their names, which can be viewed by turning on the extension.
 
 Hover over the badge to open the payment box, select the amount and network of your choice, and send a payment in a few seconds.
 
@@ -37,7 +37,7 @@ To tip your Twitter friends through the browser extension, you don't need to be 
 
 Get notifications about ongoing DAO votes on [Agora](https://x.com/IDriss_xyz/status/1820803268123189384), [Snapshot](https://snapshot.org/), and [Tally](https://x.com/idriss_xyz/status/1807798872930202007) while scrolling Twitter. Active proposals are displayed within DAO profiles (as depicted below) and on the main Twitter feed (anchored to tweets by DAOs with active proposals).\
 \
-See the announcement thread [here](https://twitter.com/IDriss_xyz/status/1761049574691819798).
+Learn more in the[ thread](https://twitter.com/IDriss_xyz/status/1761049574691819798).
 
 <figure><img src="../.gitbook/assets/IDriss_Snapshot.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -45,10 +45,14 @@ See the announcement thread [here](https://twitter.com/IDriss_xyz/status/1761049
 
 Trade on the largest decentralized prediction market directly on Twitter. The extension displays trading widgets next to tweets authored by [@Polymarket](https://twitter.com/Polymarket) that show up in your feed. To start using this integration, you have to create an account and deposit balance in the [Polymarket](https://polymarket.com/) app.\
 \
-See the announcement thread [here](https://twitter.com/IDriss_xyz/status/1780582103396266085). &#x20;
+Learn more in the [announcement thread](https://twitter.com/IDriss_xyz/status/1780582103396266085).
 
 <figure><img src="../.gitbook/assets/Polymarket_IDriss_3_with_amount_100.PNG" alt=""><figcaption></figcaption></figure>
 
 #### Trading copilot
 
-Coming soon.
+Track any wallet, ENS domain, or Farcaster profile you follow and get real-time alerts when they trade, allowing you to copy their moves instantly. Trades are executed with optimal routes via LI.FI on Base with a 0.5% fee supporting the DAO treasury. Lock $IDRISS in the [vault](https://idriss.xyz/vault) to access unlimited wallet subscriptions, with more premium features coming soon.
+
+Learn more in the [thread](https://x.com/idriss_xyz/status/1880253753825415424).
+
+<figure><img src="../.gitbook/assets/Trading_copilot_GIF.gif" alt=""><figcaption></figcaption></figure>

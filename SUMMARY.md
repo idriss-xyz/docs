@@ -6,22 +6,22 @@
 
 * [Extension](user-guides/extension.md)
 * [Creators](user-guides/creators.md)
-* [Prediction Markets](user-guides/prediction-markets.md)
+* [Prediction markets](user-guides/prediction-markets.md)
 
 ## IDRISS Token
 
 * [Tokenomics](idriss-token/tokenomics.md)
-* [Retroactive Distribution](idriss-token/retroactive-distribution.md)
+* [Retroactive distribution](idriss-token/retroactive-distribution.md)
 * [Governance](idriss-token/governance.md)
-* [Token Sale](idriss-token/token-sale.md)
-* [Terms and Conditions](idriss-token/terms-and-conditions.md)
+* [Token sale](idriss-token/token-sale.md)
+* [Terms and conditions](idriss-token/terms-and-conditions.md)
 
 ## Resources
 
 * [Twitter](https://twitter.com/IDriss_xyz)
 * [Discord](https://discord.gg/RJhJKamjw5)
-* [Mirror Blog](https://idriss.mirror.xyz/)
 * [GitHub](https://github.com/idriss-xyz)
-* [Terms of Service](resources/terms-of-service.md)
-* [Privacy Policy](resources/privacy-policy.md)
-* [Brand Guidelines](resources/brand-guidelines.md)
+* [Blog](https://paragraph.xyz/@idriss)
+* [Terms of service](resources/terms-of-service.md)
+* [Privacy policy](resources/privacy-policy.md)
+* [Brand guidelines](resources/brand-guidelines.md)
