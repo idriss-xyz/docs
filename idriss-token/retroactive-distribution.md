@@ -23,7 +23,7 @@ _You have registered an IDRISS account or used the browser extension_
   * **Paid account**: users who registered an account and paid the $10 registration fee. This was the only paid feature for a long time and contributed significantly to where IDRISS is today. This criteria carries x10 weight compared to a free account or extension use, recognizing the early users who bought the product and supported the platform financially.
   * **Free account**: users who joined for free via allowlisting, campaigns, or giveaways.&#x20;
 * **Extension**: Users who made transfers on 2 unique days using the browser extension on any mainnet network. No minimum amount required, and any recipient is allowed.
-* **Early User Multiplier**: increases the longer you've been registered. It’s calculated by dividing the number of days since your registration by the total number of days since the launch in 2022, then adding 1 to the ratio to get your multiplier. The longer you've been registered, the higher your multiplier.
+* **Early user multiplier**: increases the longer you've been registered. It’s calculated by dividing the number of days since your registration by the total number of days since the launch in 2022, then adding 1 to the ratio to get your multiplier. The longer you've been registered, the higher your multiplier.
 * **Referral multiplier:** increases based on the number of people you invite. To calculate your multiplier, we took the cubic root of the sum of your invites plus 1. For example, if you invited 7 people, your multiplier was 2. The more people you invited, the higher your multiplier, but the rate of increase slows down as the number of invites grows.
 
 **Gitcoin donor**

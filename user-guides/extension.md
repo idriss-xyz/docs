@@ -19,7 +19,7 @@ The extension is available for [Chrome, Brave, and Arc](https://chromewebstore.g
 The extension is also accessible to mobile Android users through [Kiwi Browser](https://kiwibrowser.com/) and [Mises Browser](https://www.mises.site/).&#x20;
 {% endhint %}
 
-## Features
+### Features
 
 #### Tipping badges
 
@@ -45,7 +45,7 @@ Learn more in the[ thread](https://twitter.com/IDriss_xyz/status/176104957469181
 
 Trade on the largest decentralized prediction market directly on Twitter. The extension displays trading widgets next to tweets authored by [@Polymarket](https://twitter.com/Polymarket) that show up in your feed. To start using this integration, you have to create an account and deposit balance in the [Polymarket](https://polymarket.com/) app.\
 \
-Learn more in the [announcement thread](https://twitter.com/IDriss_xyz/status/1780582103396266085).
+Learn more in the [thread](https://twitter.com/IDriss_xyz/status/1780582103396266085).
 
 <figure><img src="../.gitbook/assets/Polymarket_IDriss_3_with_amount_100.PNG" alt=""><figcaption></figcaption></figure>
 
