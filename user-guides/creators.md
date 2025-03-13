@@ -32,7 +32,7 @@ Getting started with the [IDRISS creators app](https://idriss.xyz/creators) is s
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-3. Once you've set up your details, click the button to copy your donation link. Anyone with this link can send you tips using your selected tokens and networks.
+3. Click the button to copy your donation link. Anyone with this link can send you tips using your selected tokens and networks.
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
