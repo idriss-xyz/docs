@@ -22,6 +22,6 @@
 * [Discord](https://discord.gg/RJhJKamjw5)
 * [GitHub](https://github.com/idriss-xyz)
 * [Blog](https://paragraph.xyz/@idriss)
-* [Brand guidelines](https://drive.google.com/drive/folders/1HYuCl1rmeCd4WWC1b6EB-f37CSZWE3u0?usp=sharing)
+* [Brand](resources/brand.md)
 * [Terms of service](resources/terms-of-service.md)
 * [Privacy policy](resources/privacy-policy.md)
