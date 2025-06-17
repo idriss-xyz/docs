@@ -1,11 +1,11 @@
 # Governance
 
-The IDRISS governance framework constitutes the primary decision-making system for both treasury management and technical upgrades. The DAO adopts a lightweight, secure, and efficient optimistic voting framework. Consequently, a formal proposal is assumed to have passed a vote unless it is explicitly vetoed by the community of IDRISS tokenholders.
+he IDRISS governance framework constitutes the primary decision-making system for both treasury management and technical upgrades. The DAO adopts a lightweight, secure, and efficient optimistic voting framework. Consequently, a formal proposal is assumed to have passed a vote unless it is explicitly vetoed by the community of IDRISS tokenholders.
 
 #### Optimistic voting framework
 
 1. **Proposal creation:** any community member, whether or not an IDRISS tokenholder, may put forward a proposal idea on [Discord](https://discord.com/invite/RJhJKamjw5).
-2. **DAO council review:** comprised of 19 DAO Initial Members, who have been the signatories of the IDRISS token initiation transaction, the DAO council is responsible for championing a proposal idea to take shape as a formal proposal and progress to the voting stage. 10 out of 19 members are required for a proposal to progress.
+2. **DAO council review:** currently comprised of 19 DAO Initial Members, who have been the signatories of the IDRISS token initiation transaction, the DAO council is responsible for championing a proposal idea to take shape as a formal proposal and progress to the voting stage. A simple majority of Initial Members is required for a proposal to progress.
 3. **Voting:** the following parameters apply to all votes:
 
 * Voting platform: [Snapshot](https://snapshot.box/#/s:idrissxyz.eth)
@@ -22,7 +22,7 @@ The IDRISS governance framework constitutes the primary decision-making system f
 
 4. **Execution:** DAO Managing Members are responsible for including proposals on Snapshot for voting, as well as enacting the results onchain (via means of a 3/5 multisig wallet) and offchain.
 
-<figure><img src="../.gitbook/assets/IDIP_IDFP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IDRISS governance flow.png" alt=""><figcaption></figcaption></figure>
 
 #### Proposal frameworks
 

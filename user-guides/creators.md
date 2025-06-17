@@ -61,7 +61,7 @@ To create an overlay:
 
 Adding a donation panel to your Twitch bio can make it easier for supporters to donate. Here's how to add one:
 
-1. Click [**Download a banner for your bio**](https://idriss.xyz/creators/banner) button in the creators app
+1. Click the **Download a banner for your bio** button in the [creators app](https://www.idriss.xyz/creators/app)
 2. Download a donation banner of your choice
 3. Go to your Twitch channel and log in
 4. Scroll to your bio and toggle the **Edit Panels** switch on
