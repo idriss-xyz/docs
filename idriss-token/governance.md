@@ -1,6 +1,6 @@
 # Governance
 
-he IDRISS governance framework constitutes the primary decision-making system for both treasury management and technical upgrades. The DAO adopts a lightweight, secure, and efficient optimistic voting framework. Consequently, a formal proposal is assumed to have passed a vote unless it is explicitly vetoed by the community of IDRISS tokenholders.
+The IDRISS governance framework constitutes the primary decision-making system for both treasury management and technical upgrades. The DAO adopts a lightweight, secure, and efficient optimistic voting framework. Consequently, a formal proposal is assumed to have passed a vote unless it is explicitly vetoed by the community of IDRISS tokenholders.
 
 #### Optimistic voting framework
 
