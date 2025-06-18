@@ -36,9 +36,9 @@ Getting started with the [IDRISS creators app](https://idriss.xyz/creators) is s
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-#### Setting up OBS Studio
+#### Setting up donation alerts
 
-Generate an OBS link to display donations as an overlay on your stream by clicking **OBS Link** in the creators app.
+Generate an OBS link to display donations alerts on your stream by clicking **OBS Link** in the creators app.
 
 {% hint style="info" %}
 This is not your donation link. It only works within OBS and serves no purpose outside of it.
@@ -57,7 +57,7 @@ To create an overlay:
 6. Click **OK**
 7. Adjust the positioning of the browser source on-screen as needed
 
-#### Setting up a Twitch panel
+#### Setting up a donation panel
 
 Adding a donation panel to your Twitch bio can make it easier for supporters to donate. Here's how to add one:
 
