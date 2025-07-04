@@ -48,8 +48,8 @@ These projects and communities are our key partners. They provide the infrastruc
 
 #### Claiming plans
 
-* **Early Claim** gives you instant access to 50% of your tokens, but you forego the remaining 50% for immediate access. You can lock your tokens in the [vault](vault.md) to receive benefits.
-* **Full Claim** unlocks your tokens in the [vault](vault.md) on July 6, 2025, but you’ll immediately benefit from 12% APR, premium token-gated features, and access to revenue sharing. If you don’t meet the 10,000 token threshold required for premium, you can buy more tokens on the market to reach it, and we’ll consider the total amount.
+* **Early Claim** gives you instant access to 50% of your tokens, but you forego the remaining 50% for immediate access. You can lock your tokens in the [Vault](vault.md) to receive benefits.
+* **Full Claim** unlocks your tokens in the [Vault](vault.md) on July 6, 2025, but you’ll immediately benefit from 12% APR, premium token-gated features, and access to revenue sharing. If you don’t meet the 10,000 token threshold required for premium, you can buy more tokens on the market to reach it, and we’ll consider the total amount.
 
 #### Appeal form
 
