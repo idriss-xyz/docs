@@ -48,16 +48,8 @@ These projects and communities are our key partners. They provide the infrastruc
 
 #### Claiming plans
 
-* **Early Claim** gives you instant access to 50% of your tokens, but you forego the remaining 50% for immediate access. You can lock your tokens in the vault to receive benefits.
-* **Full Claim** unlocks your tokens in the vault on July 6, 2025, but you’ll immediately benefit from 12% APR, premium token-gated features, and access to revenue sharing. If you don’t meet the 10,000 token threshold required for premium, you can buy more tokens on the market to reach it, and we’ll consider the total amount.
-
-#### Vault
-
-The Vault is a mechanism allowing you to lock IDRISS tokens to earn rewards. Tokens can be locked and unlocked at any time, with only gas costs required. Tokens give benefits only while they are locked, with no unbonding period.
-
-* Earn 12% APR on locked tokens (non-compounding, distributed every six months with the first payout on July 6, 2025)
-* Lock 10,000 $IDRISS or more to access upcoming premium features
-* Tap into decentralized revenue sharing from IDRISS apps (planned for a future date)
+* **Early Claim** gives you instant access to 50% of your tokens, but you forego the remaining 50% for immediate access. You can lock your tokens in the [vault](vault.md) to receive benefits.
+* **Full Claim** unlocks your tokens in the [vault](vault.md) on July 6, 2025, but you’ll immediately benefit from 12% APR, premium token-gated features, and access to revenue sharing. If you don’t meet the 10,000 token threshold required for premium, you can buy more tokens on the market to reach it, and we’ll consider the total amount.
 
 #### Appeal form
 

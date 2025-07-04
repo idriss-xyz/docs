@@ -12,6 +12,7 @@
 
 * [Tokenomics](idriss-token/tokenomics.md)
 * [Governance](idriss-token/governance.md)
+* [Vault](idriss-token/vault.md)
 * [Retroactive distribution](idriss-token/retroactive-distribution.md)
 * [Token sale](idriss-token/token-sale.md)
 * [Terms and conditions](idriss-token/terms-and-conditions.md)
