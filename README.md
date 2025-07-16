@@ -1,5 +1,5 @@
 ---
-description: Apps uniquely enabled by crypto and AI
+description: Building onchain apps that matter
 ---
 
 # Introduction
