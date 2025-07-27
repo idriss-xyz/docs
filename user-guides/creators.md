@@ -17,63 +17,110 @@ Learn more in the [thread](https://x.com/idriss_xyz/status/1864316262811357450).
 
 ### **Setup guide**
 
-Getting started with the [IDRISS creators app](https://idriss.xyz/creators) is simple. This guide will walk you through the process step by step.
+Getting started with the [IDRISS Creators](https://idriss.xyz/creators) is simple. This guide will walk you through the process step by step.
 
-#### Creating a donation link
+#### Donation page
 
-1. Enter your creator name and wallet address in the following fields:
+Your donation page link is displayed at the top of your dashboard. Share this link with viewers to receive donations. To activate your page, continue with the setup below.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-2. Set up the payment options for your donations:
+#### Payment methods
 
-* Select your preferred **networks** (e.g., Ethereum, Polygon)
-* Select your preferred **tokens** (e.g., USDT, ETH)
+* Crypto
+  * Select the **networks** you want to receive donations on (e.g. Base, Ethereum)
+  * Select the **tokens** you want to accept (e.g. IDRISS, USDT)
+* _Card & bank transfers via Stripe_ _(coming soon)_&#x20;
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Dashboard_Setup_Payment_methods_cryptocurrencies.png" alt=""><figcaption></figcaption></figure>
 
-3. Click the button to copy your donation link. Anyone with this link can send you tips using your selected tokens and networks.
+#### Stream alerts
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+Donations can appear as on-screen alerts during your stream. To set them up:
 
-#### Setting up donation alerts
+1. Turn on Alerts, Text-to-speech, and AI sound effects
 
-Generate an OBS link to display donations alerts on your stream by clicking **OBS Link** in the creators app.
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-This is not your donation link. It only works within OBS and serves no purpose outside of it.
-{% endhint %}
+2. Copy the **Overlay link** from your dashboard
 
-To create an overlay:
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-1. Open [**OBS Studio**](https://obsproject.com/)
-2. In your active scene, right-click on **Sources** and select **Add**
-3. Choose **Browser** from the list
-4. In the **URL** field, paste the link you copied from the creators app
-5. Set the **Width** and **Height** to match your stream’s resolution (e.g., set to 1920 and 1080 for a 1920x1080 stream)
+3. Open [**OBS Studio**](https://obsproject.com/) or other streaming software
+   1. In your active scene, right-click on **Sources** and select **Add**
+   2. Choose **Browser** from the list
+   3. In the **URL** field, paste the link you copied from the creators app
+   4. Set the **Width** and **Height** to match your stream’s resolution (e.g., set to 1920 and 1080 for a 1920x1080 stream)
+   5. Click **OK**
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>This is what your Browser source properties should look like.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-07-16 at 16.25.14.png" alt=""><figcaption><p>This is what your Browser source settings should look like</p></figcaption></figure>
 
-6. Click **OK**
-7. Adjust the positioning of the browser source on-screen as needed
+4. Send a test alert through your dashboard. Adjust the size, positioning and volume of the source as needed.
 
-#### Setting up a donation panel
+#### Donation panel
 
 Adding a donation panel to your Twitch bio can make it easier for supporters to donate. Here's how to add one:
 
-1. Click the **Download a banner for your bio** button in the [creators app](https://www.idriss.xyz/creators/app)
-2. Download a donation banner of your choice
-3. Go to your Twitch channel and log in
-4. Scroll to your bio and toggle the **Edit Panels** switch on
-5. Click the panel with the **“+”** sign to create a new panel
-6. Select **Add Image** and upload the banner you downloaded
-7. In the **Image Links To** field, paste your donation link
-8. Click **Submit** and toggle the **Edit Panels** switch off
+1. Download a donation banner of your choice
+2. Go to your Twitch channel and log in
+3. Scroll to your bio and toggle the **Edit Panels** switch on
+4. Click the panel with the **“+”** sign to create a new panel
+5. Select **Add Image** and upload the banner you downloaded
+6. In the **Image Links To** field, paste your donation page link
+7. Click **Submit** and toggle the **Edit Panels** switch off
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-You’re now ready to receive donations. Have questions? Join our [Discord](https://discord.gg/NFWN5dYHsN) for support and troubleshooting.&#x20;
+You’re now ready to receive donations. Have questions? Join our [Discord](https://discord.gg/NFWN5dYHsN) for support and troubleshooting.
 
+### FAQ
 
+<details>
 
-&#x20;
+<summary>Where do my donations go?</summary>
+
+All funds sent to you are stored in a secure, [self-custodial](https://learn.metamask.io/lessons/what-is-a-self-custody-wallet) wallet linked to your profile. Only you can access it. If you need to use your wallet elsewhere, you can export it from your profile settings.
+
+</details>
+
+<details>
+
+<summary>How do I cash out my crypto?</summary>
+
+Withdraw your earnings to a centralized exchange such as Coinbase, Binance, or Kraken to convert crypto to fiat and send it to your bank account.
+
+**Note:** Direct fiat withdrawals from the app aren't available yet, but we're working on adding this in the future.
+
+</details>
+
+<details>
+
+<summary><strong>Is there a minimum withdrawal amount?</strong></summary>
+
+There's no minimum withdrawal amount. Your funds are always accessible and can be transferred at any time.
+
+</details>
+
+<details>
+
+<summary>Are there any fees on donations?</summary>
+
+IDRISS takes a fixed fee of 1% on every donation.
+
+</details>
+
+<details>
+
+<summary>Is logging in with Twitch safe?</summary>
+
+We only use your Twitch account to display your channel name and follower count in the app \[CHECK EXACT PERMS]. We can't access your private Twitch data or stream on your behalf.
+
+</details>
+
+<details>
+
+<summary>My donation alerts don't show up on stream. Why?</summary>
+
+Double-check that you have copied the Overlay link correctly. Make sure to add the overlay as a new source in your streaming software, and confirm that it isn't hidden behind another source, such as a game capture. If you're not sure whether the overlay is working, use the **Test alert** feature to preview the alert.
+
+</details>

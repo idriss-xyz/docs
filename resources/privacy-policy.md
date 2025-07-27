@@ -1,6 +1,6 @@
-# Privacy Policy
+# Privacy policy
 
-_Last updated on January 2, 2025_
+_Last updated on July 24, 2025_
 
 This is the privacy policy of IDRISS DAO LLC (“IDRISS”, “We”, “Our”, or “Us” as well as “we”, “our” or “us”), a company incorporated with limited liability in the Republic of Marshall Island, with registered office in PO Box 852, Long Island Rd, Majuro, Marshall Islands MH 96960.
 
@@ -44,17 +44,13 @@ For the purposes of this Privacy policy:
 
 3\. Categories of collected and processed personal data
 
-The present Article 3 and the subsequent Article 4 and 5 are mainly referred to the data communicated using the “contact us” and the “newsletter form” which means the information you decide to send to us via email and your email.
-
-Moreover, IDRISS collects your personal data through the use of cookies on this website.&#x20;
+The present Article 3, and the subsequent Articles 4 and 5, refer to the personal data collected via the Site, including information submitted through the “contact us” and “newsletter” forms, data collected via cookies, and limited personal data collected when using specific services offered by IDRISS, such as the IDRISS Creators product.
 
 4\. Purposes and legal basis of processing
 
 4.1 Purposes
 
-IDRISS collects and processes your personal data to be able to reply to your inquiries in case of the “contact us” form and to be able to add you to IDRISS newsletter in case of the “newsletter” form.
-
-The purpose of collecting data through the use of cookies is to provide a better and more personalized experience of navigation of this website to you.&#x20;
+IDRISS collects and processes your personal data for several purposes, depending on your interaction with the Site and its services. This includes replying to your inquiries submitted via the “contact us” form, subscribing you to the newsletter if requested, personalizing your browsing experience through cookies, and enabling the use of specific services such as IDRISS Creators. Where applicable, additional data purposes related to individual services are described in Section 9.
 
 4.2 Legal basis
 
@@ -91,9 +87,13 @@ As a data subject, under the GDPR you have the following rights in relation to t
 * The right to restrict processing – you have the right to withdraw your consent to the processing of your personal data by the controller or the processor at any time and free of charge.
 * The right to data portability – you have the right to request the transfer of your personal data to another personal data controller when technically feasible.
 * Right of protection – you have the right to defend your rights by judicial or administrative means if you believe that your rights as a data subject have been infringed in any way.
-* Rights related to automated decision-making and profiling – you have the right to oppose any automated decision-making and profiling.&#x20;
+* Rights related to automated decision-making and profiling – you have the right to oppose any automated decision-making and profiling.
 
-9\. Exercising rights related to personal data
+9\. Use of IDRISS Creators
+
+If you use the IDRISS Creators product, we collect limited personal data required to operate the service. This includes account creation via your social login (e.g., Twitch), wallet provisioning via Privy, metadata related to donations (such as token, network, timestamp, and others), and any content you upload (such as sound alerts). All wallets are self-custodial and IDRISS does not access your keys or handle your funds. See the [Terms of Service](terms-of-service.md) for the full product terms.&#x20;
+
+10\. Exercising rights related to personal data
 
 At any time, you can withdraw your consent or object to the processing of your personal data and exercise your other rights as a data subject. For this purpose, you should send us a notice using one of the contact details provided in this policy.
 
