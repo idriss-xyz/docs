@@ -30,9 +30,10 @@ Your donation page link is displayed at the top of your dashboard. Share this li
 * Crypto
   * Select the **networks** you want to receive donations on (e.g. Base, Ethereum)
   * Select the **tokens** you want to accept (e.g. IDRISS, USDT)
+* Digital collectibles
 * _Card & bank transfers via Stripe_ _(coming soon)_&#x20;
 
-<figure><img src="../.gitbook/assets/Dashboard_Setup_Payment_methods_cryptocurrencies.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payment-methods.png" alt=""><figcaption></figcaption></figure>
 
 #### Stream alerts
 
@@ -50,7 +51,7 @@ Donations can appear as on-screen alerts during your stream. To set them up:
    1. In your active scene, right-click on **Sources** and select **Add**
    2. Choose **Browser** from the list
    3. In the **URL** field, paste the link you copied from the creators app
-   4. Set the **Width** and **Height** to match your stream’s resolution (e.g., set to 1920 and 1080 for a 1920x1080 stream)
+   4. Set the **Width** and **Height** to match your stream’s resolution (e.g., set to 1920 and 1080 for a 1920x1080 stream). If you've enabled Digital collectibles, set the browser source in portrait orientation (e.g., 1080×1920).
    5. Click **OK**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-16 at 16.25.14.png" alt=""><figcaption><p>This is what your Browser source settings should look like</p></figcaption></figure>
