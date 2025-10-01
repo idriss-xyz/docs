@@ -33,7 +33,7 @@ Your donation page link is displayed at the top of your dashboard. Share this li
 * Digital collectibles
 * _Card & bank transfers via Stripe_ _(coming soon)_&#x20;
 
-<figure><img src="../.gitbook/assets/payment-methods.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/payment-methods-new.png" alt=""><figcaption></figcaption></figure>
 
 #### Stream alerts
 
