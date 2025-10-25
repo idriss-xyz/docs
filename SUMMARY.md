@@ -4,9 +4,7 @@
 
 ## User Guides
 
-* [Extension](user-guides/extension.md)
-* [Creators](user-guides/creators.md)
-* [Community notes](user-guides/prediction-markets.md)
+* [Get started](user-guides/creators.md)
 
 ## IDRISS Token
 

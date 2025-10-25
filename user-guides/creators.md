@@ -2,7 +2,7 @@
 description: Monetize your content on Twitch, YouTube, and more
 ---
 
-# Creators
+# Get started
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
@@ -17,7 +17,7 @@ Learn more in the [thread](https://x.com/idriss_xyz/status/1864316262811357450).
 
 ### **Setup guide**
 
-Getting started with the [IDRISS Creators](https://idriss.xyz/creators) is simple. This guide will walk you through the process step by step.
+This guide will walk you through the setup process step by step.
 
 #### Donation page
 

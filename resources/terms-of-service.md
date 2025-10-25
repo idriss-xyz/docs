@@ -1,6 +1,6 @@
 # Terms of service
 
-_Last updated on July 24, 2025_
+_Last updated on October 24, 2025_
 
 GENERAL TERMS OF SERVICE
 
@@ -46,23 +46,25 @@ By accessing our Site or purchasing any product or services offered or sold (eve
 * if You are a legal person or an entity, the legal person or the entity is not, nor any of its directors, shareholders, officers, employees, agents, or any persons or entities directly or indirectly affiliated with it is an individual or entity that is, or is owned or controlled by an individual or entity that is currently subject to any sanctions, or included in any sanctioned list, administered or enforced by the Office of Foreign Assets Control of the US Department of the Treasury (OFAC), especially the an OFAC SDN (specially designated nationals), the UN Security Council, the EU, or any other governmental authority with jurisdiction over You, including but not limited to the sanctions lists maintained by OFAC, the UN, or the EU.
 * You are (i) an “accredited investor” within the meaning of Regulation D under the USA Securities Act of 1933 (“Securities Act”) or (ii) a “professional client” according to Article 4(1)(10) of the EU MiFID directive or,  in any case, (iii)  You possess the experience, knowledge, and expertise to make Your own investment decisions and understand the risks involved; and that, in any case, You are not acting on behalf of, or for the benefit of, nor You intend to transfer any Tokens You may purchase to, any person who is not an accredited investor or is not a professional client.
 
-4.1 IDRISS Creators
+4.1 IDRISS
 
-By using the [IDRISS Creators](https://www.idriss.xyz/creators) product, you agree to the following additional terms.
+By using the [IDRISS](https://www.idriss.xyz/) product, you agree to the following additional terms.
 
-When you log in to IDRISS Creators using a supported third-party platform (e.g., Twitch), an account is automatically created for you. We use Privy to provision a non-custodial, self-managed crypto wallet linked to your profile. You are solely responsible for safeguarding your social login credentials and any exported wallet keys. IDRISS cannot access, reset, or recover your wallet or funds if access is lost.
+When you log in to IDRISS using a supported third-party platform (e.g., Twitch), an account is automatically created for you. We use Privy to provision a non-custodial, self-managed crypto wallet linked to your profile. You are solely responsible for safeguarding your social login credentials and any exported wallet keys. IDRISS cannot access, reset, or recover your wallet or funds if access is lost.
 
 All donations are direct, peer-to-peer (P2P) transfers between donor and creator. IDRISS does not custody, route, or intermediate these transactions. We cannot reverse, recover, or refund any transfers. Donors are solely responsible for verifying the recipient before sending funds. Creators are solely responsible for securing their wallet and managing any received funds.
 
-IDRISS Creators allows users to upload custom assets, such as sound alerts, to personalize their stream experience. By uploading content, you confirm that you either own or have the full legal rights, licenses, and permissions to upload, use, and publish that content. You agree not to upload content that is unlawful, infringing, harassing, defamatory, obscene, or otherwise objectionable. You grant IDRISS a non-exclusive, royalty-free, worldwide license to store, display, reproduce, and distribute this content as needed to operate the platform. While IDRISS does not monitor uploads in real time, we reserve the right to remove or restrict access to any content that violates these Terms, applicable laws, or our community guidelines.
+Certain digital assets or tokens available through IDRISS may be restricted or regulated by jurisdiction. IDRISS does not provide legal, financial, or tax advice and does not determine which tokens are permitted or prohibited in any country or region. Creators, viewers, donors, and other users are solely responsible for verifying whether enabling, receiving, sending, or holding any token complies with the laws applicable to them (including restrictions on U.S. persons, where relevant). The dashboard may allow you to enable or disable specific tokens; any such selection is your decision and at your sole risk. By enabling a token, you represent that you are legally permitted to use it and will comply with all applicable laws. IDRISS provides only technical access and assumes no responsibility for any compliance, registration, or reporting obligations, and disclaims liability arising from your token selections or transactions.
 
-Future versions of IDRISS Creators may include rewards, incentives, or other promotional programs. Participation in these programs will be voluntary and subject to separate eligibility criteria and terms disclosed at the time of release.
+IDRISS allows users to upload custom assets, such as sound alerts, to personalize their stream experience. By uploading content, you confirm that you either own or have the full legal rights, licenses, and permissions to upload, use, and publish that content. You agree not to upload content that is unlawful, infringing, harassing, defamatory, obscene, or otherwise objectionable. You grant IDRISS a non-exclusive, royalty-free, worldwide license to store, display, reproduce, and distribute this content as needed to operate the platform. While IDRISS does not monitor uploads in real time, we reserve the right to remove or restrict access to any content that violates these Terms, applicable laws, or our community guidelines.
 
-By using IDRISS Creators, you agree to receive essential email communications related to your account, including security alerts, product functionality, and legal updates. You may opt out of non-essential promotional messages from your account settings.
+Future versions of IDRISS may include rewards, incentives, or other promotional programs. Participation in these programs will be voluntary and subject to separate eligibility criteria and terms disclosed at the time of release.
+
+By using IDRISS, you agree to receive essential email communications related to your account, including security alerts, product functionality, and legal updates. You may opt out of non-essential promotional messages from your account settings.
 
 The platform is provided “as-is” and “as-available.” We do not guarantee uninterrupted access, bug-free performance, or compatibility with all streaming tools. You understand and accept that outages, third-party API disruptions (e.g., Twitch, blockchain providers), or software limitations may occur. IDRISS is not liable for any resulting loss of access, donations, or income.
 
-Using IDRISS Creators does not guarantee any level of revenue, earnings, or donation activity. Your results depend entirely on your own use of the platform, audience engagement, and external factors beyond our control.
+Using IDRISS does not guarantee any level of revenue, earnings, or donation activity. Your results depend entirely on your own use of the platform, audience engagement, and external factors beyond our control.
 
 5\. Blockchain and crypto assets
 
