@@ -1,6 +1,6 @@
 # Terms of service
 
-_Last updated on October 24, 2025_
+_Last updated on January 1, 2026_
 
 GENERAL TERMS OF SERVICE
 
@@ -60,7 +60,7 @@ IDRISS allows users to upload custom assets, such as sound alerts, to personaliz
 
 Future versions of IDRISS may include rewards, incentives, or other promotional programs. Participation in these programs will be voluntary and subject to separate eligibility criteria and terms disclosed at the time of release.
 
-By using IDRISS, you agree to receive essential email communications related to your account, including security alerts, product functionality, and legal updates. You may opt out of non-essential promotional messages from your account settings.
+By using IDRISS, you agree to receive essential email communications related to your account, including security alerts, product functionality, and legal updates. You may receive occasional non-essential promotional messages, which you can opt out of at any time from your account settings.
 
 The platform is provided “as-is” and “as-available.” We do not guarantee uninterrupted access, bug-free performance, or compatibility with all streaming tools. You understand and accept that outages, third-party API disruptions (e.g., Twitch, blockchain providers), or software limitations may occur. IDRISS is not liable for any resulting loss of access, donations, or income.
 
@@ -176,4 +176,4 @@ Should the mediation process fail, any disputes arising out of or in connection 
 
 You hereby waive any constitutional and statutory rights to sue in court and have a trial in front of a judge or a jury. All claims and disputes within the scope of this arbitration agreement must be arbitrated on an individual basis and not on a representative or collective class basis. Under the arbitration procedures outlined in this section, arbitrators shall not combine or consolidate more than one party’s claims without the written consent of all affected parties to an arbitration proceeding.
 
-\
+<br>
