@@ -60,7 +60,7 @@ IDRISS allows users to upload custom assets, such as sound alerts, to personaliz
 
 Future versions of IDRISS may include rewards, incentives, or other promotional programs. Participation in these programs will be voluntary and subject to separate eligibility criteria and terms disclosed at the time of release.
 
-By using IDRISS, you agree to receive essential email communications related to your account, including security alerts, product functionality, and legal updates. You may receive occasional non-essential promotional messages, which you can opt out of at any time from your account settings.
+By using IDRISS, you agree to receive essential email communications related to your account, including security alerts, product functionality, and legal updates. You may receive occasional non-essential promotional messages, which you can opt out of at any time from your account settings or via the unsubscribe link in those emails.
 
 The platform is provided “as-is” and “as-available.” We do not guarantee uninterrupted access, bug-free performance, or compatibility with all streaming tools. You understand and accept that outages, third-party API disruptions (e.g., Twitch, blockchain providers), or software limitations may occur. IDRISS is not liable for any resulting loss of access, donations, or income.
 
