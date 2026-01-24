@@ -1,5 +1,9 @@
 # Governance
 
+IDRISS is governed by its community through a [DAO](https://x.com/idriss_xyz/status/1930610578457792777) (decentralized autonomous organization), an onchain system that enables collective ownership and governance.
+
+#### How we govern
+
 The IDRISS governance framework constitutes the primary decision-making system for both treasury management and technical upgrades. The DAO adopts a lightweight, secure, and efficient optimistic voting framework. Consequently, a formal proposal is assumed to have passed a vote unless it is explicitly vetoed by the community of IDRISS tokenholders.
 
 #### Optimistic voting framework

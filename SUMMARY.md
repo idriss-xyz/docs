@@ -8,8 +8,8 @@
 
 ## IDRISS DAO
 
-* [Tokenomics](idriss-dao/tokenomics.md)
 * [Governance](idriss-dao/governance.md)
+* [Tokenomics](idriss-dao/tokenomics.md)
 * [Retroactive distribution](idriss-dao/retroactive-distribution.md)
 * [Token sale](idriss-dao/token-sale.md)
 * [Terms and conditions](idriss-dao/terms-and-conditions.md)
