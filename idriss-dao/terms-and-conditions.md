@@ -186,4 +186,4 @@ Any dispute arising out of or related to these Terms is personal to the Purchase
 
 Disputes related to these Terms shall be first submitted to mediation. The terms and procedure for mediation shall be arranged by the Parties to the dispute. If good-faith mediation of a dispute proves impossible or if an agreed-upon mediation outcome cannot be obtained, all disputes arising out of or in connection with the present Agreement shall be only finally settled under the Rules of Arbitration of the International Chamber of Commerce by three arbitrators appointed in accordance with the said Rules. No award or procedural order made in the arbitration shall be published. The arbitrators shall apply the governing law of this Agreement pursuant to Article 9.3. The language of the arbitration will be English. This clause will prevail over any other clause or principles of law which may establish a different jurisdiction for the disputes arising out of this Agreement.
 
-\
+<br>

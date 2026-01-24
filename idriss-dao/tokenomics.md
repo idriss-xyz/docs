@@ -11,10 +11,6 @@
 
 Token holders have voting rights within an [optimistic governance framework](governance.md). This model combines startup-like agility with transparency. A core team manages day-to-day operations, while token holders provide decentralized oversight. They trust the team to make routine decisions but retain the power to veto major changes or replace the team if needed.
 
-#### Decentralized revenue sharing
-
-In the future, project revenue streams are planned to be distributed through permissionless smart contracts, compensating users and token holders for specific actions they perform.
-
 #### Allocations
 
 <figure><img src="../.gitbook/assets/IDRISS_Allocations.png" alt=""><figcaption></figcaption></figure>
